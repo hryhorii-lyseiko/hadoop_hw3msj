@@ -52,7 +52,7 @@ public class AppDriver extends Configured implements Tool {
 
         job.setPartitionerClass(CustomPartitioner.class);
         job.setGroupingComparatorClass(GroupComparator.class);
-        job.setSortComparatorClass(SortComparator.class);
+        //job.setSortComparatorClass(SortComparator.class);
         job.setMapperClass(MapSideJoinMapper.class);
         job.setCombinerClass(BidCombiner.class);
         job.setReducerClass(BidReducer.class);
