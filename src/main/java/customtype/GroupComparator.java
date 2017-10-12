@@ -11,6 +11,6 @@ public class GroupComparator extends WritableComparator {
     public int compare(WritableComparable w1, WritableComparable w2) {
         CustomKey ck1 = (CustomKey) w1;
         CustomKey ck2 = (CustomKey) w2;
-        return CustomKey.compare(ck1.getOSType(), ck2.getOSType());
+        return ck1.getOSType().compareTo(ck2.getOSType());
     }
 }

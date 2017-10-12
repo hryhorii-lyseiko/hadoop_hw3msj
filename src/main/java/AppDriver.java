@@ -1,6 +1,7 @@
 import combiner.BidCombiner;
 import customtype.CustomKey;
 import customtype.GroupComparator;
+import customtype.SortComparator;
 import mapper.MapSideJoinMapper;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
@@ -11,7 +12,6 @@ import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
-import org.apache.hadoop.mapreduce.lib.input.MultipleInputs;
 import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
@@ -19,13 +19,14 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 import partitioner.CustomPartitioner;
 import reducer.BidReducer;
+import org.apache.hadoop.filecache.DistributedCache;
 
 public class AppDriver extends Configured implements Tool {
 
     public int run (String[]args) throws Exception {
 
-        if (args.length != 2) {
-            System.err.printf("Usage: %s -fiels <inputfile> <input1> <outputfolder>\n", getClass().getSimpleName());
+        if (args.length != 3) {
+            System.err.printf("Usage: %s <input1> <input2> <outputfolder>\n", getClass().getSimpleName());
             ToolRunner.printGenericCommandUsage(System.err);
             return -1;
         }
@@ -35,27 +36,29 @@ public class AppDriver extends Configured implements Tool {
         job.setJobName("Bid price count per city");
 
         Configuration conf = new Configuration();
+        DistributedCache.addCacheFile(new Path(args[0]).toUri(), job.getConfiguration());
         FileSystem fs= FileSystem.get(conf);
         FileInputFormat.setInputDirRecursive(job,true);
-        FileStatus[] status_list = fs.listStatus(new Path(args[0]));
+        FileStatus[] status_list = fs.listStatus(new Path(args[1]));
         if(status_list != null){
             for(FileStatus status : status_list){
                 FileInputFormat.addInputPath(job, status.getPath());
             }
         }
-        FileOutputFormat.setOutputPath(job, new Path(args[1]));
+        FileOutputFormat.setOutputPath(job, new Path(args[2]));
 
         job.setInputFormatClass(TextInputFormat.class);
         job.setOutputFormatClass(TextOutputFormat.class);
 
         job.setPartitionerClass(CustomPartitioner.class);
         job.setGroupingComparatorClass(GroupComparator.class);
+        job.setSortComparatorClass(SortComparator.class);
         job.setMapperClass(MapSideJoinMapper.class);
         job.setCombinerClass(BidCombiner.class);
         job.setReducerClass(BidReducer.class);
 
         job.setMapOutputKeyClass(CustomKey.class);
-        job.setMapOutputValueClass(Text.class);
+        job.setMapOutputValueClass(IntWritable.class);
 
 
         job.setOutputKeyClass(Text.class);

@@ -10,7 +10,6 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
@@ -23,24 +22,24 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
     private String CityName = "";
 
     enum MYCOUNTER {
-        RECORD_COUNT, FILE_EXISTS, FILE_NOT_FOUND, SOME_OTHER_ERROR
+        RECORD_COUNT
     }
 
     @Override
     protected void setup(Context context) throws IOException, InterruptedException {
-
-        Path[] cacheFilesLocal = DistributedCache.getLocalCacheFiles(context.getConfiguration());
-
-        for (Path eachPath : cacheFilesLocal) {
-            if (eachPath.getName().toString().trim().equals("city")) {
-                context.getCounter(MYCOUNTER.FILE_EXISTS).increment(1);
-                setupOrderHashMap(eachPath, context);
+        try{
+            Path[] stopWordsFiles = DistributedCache.getLocalCacheFiles(context.getConfiguration());
+            if(stopWordsFiles != null && stopWordsFiles.length > 0) {
+                for(Path stopWordFile : stopWordsFiles) {
+                    setupOrderHashMap(stopWordFile);
+                }
             }
+        } catch(IOException ex) {
+            System.err.println("Exception in mapper setup: " + ex.getMessage());
         }
-
     }
 
-    private void setupOrderHashMap(Path filePath, Context context)
+    private void setupOrderHashMap(Path filePath)
             throws IOException {
 
         String strLineRead = "";
@@ -52,11 +51,9 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
                 String custIdCityArr[] = strLineRead.toString().split("\t");
                 CustIdOrderMap.put(custIdCityArr[0].trim(), custIdCityArr[1].trim());
             }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-            context.getCounter(MYCOUNTER.FILE_NOT_FOUND).increment(1);
+
         } catch (IOException e) {
-            context.getCounter(MYCOUNTER.SOME_OTHER_ERROR).increment(1);
+
             e.printStackTrace();
         }finally {
             if (brReader != null) {
@@ -79,7 +76,7 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
                 CityName = CustIdOrderMap.get(custDataArr[7].toString());
                 bid = Integer.parseInt(custDataArr[19].toString());
                 UserAgent userAgent = new UserAgent(custDataArr[4].toString());
-                os_type = userAgent.getOperatingSystem().getName();
+                os_type = userAgent.getOperatingSystem().getName().toString();
             } finally {
                 CityName = ((CityName.equals(null) || CityName
                         .equals("")) ? "NOT-FOUND" : CityName);
@@ -89,7 +86,7 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
 
         }
         if (bid >= 250) {
-            context.write(new CustomKey(CityName, os_type), new IntWritable(1));
+            context.write(new CustomKey(new Text(CityName), new Text( os_type)), new IntWritable(1));
         }
         CityName = "";
     }

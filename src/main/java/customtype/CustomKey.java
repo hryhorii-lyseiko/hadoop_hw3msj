@@ -1,5 +1,6 @@
 package customtype;
 
+import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.WritableComparable;
 
 import java.io.DataInput;
@@ -7,37 +8,48 @@ import java.io.DataOutput;
 import java.io.IOException;
 
 public class CustomKey implements WritableComparable<CustomKey> {
-    private String cityName;
-    private String OSType;
+    private Text cityName;
+    private Text OSType;
 
 
-    public String getCityName() {
-        return cityName; }
+
 
     public CustomKey() {
 
         }
 
-    public CustomKey(String cityName, String OSType) {
+    public CustomKey(Text cityName, Text OSType) {
         super();
         this.cityName = cityName;
         this.OSType = OSType;
         }
 
-    public String getOSType() {
+    public Text getOSType() {
         return OSType;
         }
 
+    public Text getCityName() {
+        return cityName;
+    }
+
+    public void setCityName() {
+        this.cityName = cityName;
+    }
+
+    public void setOSType(Text OSType) {
+        this.OSType = OSType;
+    }
+
     @Override
     public void write(DataOutput out) throws IOException {
-        out.writeBytes(cityName);
-        out.writeBytes(OSType);
+        cityName.write(out);
+        OSType.write(out);
         }
 
     @Override
     public void readFields(DataInput in) throws IOException {
-        cityName = in.readLine();
-        OSType = in.readLine();
+        cityName.readFields(in);
+        OSType.readFields(in);
         }
 
     @Override
@@ -73,19 +85,16 @@ public class CustomKey implements WritableComparable<CustomKey> {
 
     @Override
     public int compareTo(CustomKey o) {
-        int returnValue = compare(OSType, o.getOSType());
-        if (returnValue != 0) {
+        int returnValue = OSType.compareTo( o.getOSType());
+        if (returnValue == 0) {
+            returnValue = cityName.compareTo(o.getCityName());
+        }
         return returnValue;
         }
-        return compare(cityName, o.getCityName());
-        }
 
-    public static int compare(String k1, String k2) {
-        return (k1 == k2 ? 0 : 1);
-        }
 
     @Override
     public String toString() {
-        return "util.CustomKey [CityName=" + cityName + ", OSType=" + OSType + "]";
+        return "util.CustomKey [CityName=" + cityName.toString() + ", OSType=" + OSType.toString() + "]";
         }
 }
