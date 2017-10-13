@@ -16,7 +16,7 @@ public class BidReducer extends Reducer<CustomKey,IntWritable,Text,IntWritable> 
 
         for(IntWritable value: values) {
 
-            count += Integer.parseInt(value.toString());
+            count += value.get();
         }
         context.write(new Text(key.getCityName()),new IntWritable(count));
     }

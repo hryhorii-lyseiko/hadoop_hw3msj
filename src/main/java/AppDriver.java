@@ -1,7 +1,6 @@
 import combiner.BidCombiner;
 import customtype.CustomKey;
 import customtype.GroupComparator;
-import customtype.SortComparator;
 import mapper.MapSideJoinMapper;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
@@ -19,7 +18,7 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 import partitioner.CustomPartitioner;
 import reducer.BidReducer;
-import org.apache.hadoop.filecache.DistributedCache;
+
 
 public class AppDriver extends Configured implements Tool {
 
@@ -36,7 +35,8 @@ public class AppDriver extends Configured implements Tool {
         job.setJobName("Bid price count per city");
 
         Configuration conf = new Configuration();
-        DistributedCache.addCacheFile(new Path(args[0]).toUri(), job.getConfiguration());
+        job.addCacheFile(new Path(args[0]).toUri());
+        //DistributedCache.addCacheFile(new Path(args[0]).toUri(), job.getConfiguration());
         FileSystem fs= FileSystem.get(conf);
         FileInputFormat.setInputDirRecursive(job,true);
         FileStatus[] status_list = fs.listStatus(new Path(args[1]));
@@ -52,7 +52,6 @@ public class AppDriver extends Configured implements Tool {
 
         job.setPartitionerClass(CustomPartitioner.class);
         job.setGroupingComparatorClass(GroupComparator.class);
-        //job.setSortComparatorClass(SortComparator.class);
         job.setMapperClass(MapSideJoinMapper.class);
         job.setCombinerClass(BidCombiner.class);
         job.setReducerClass(BidReducer.class);
@@ -63,6 +62,8 @@ public class AppDriver extends Configured implements Tool {
 
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
+
+        job.setNumReduceTasks(6);
 
         return job.waitForCompletion(true) ? 0 : 1;
     }

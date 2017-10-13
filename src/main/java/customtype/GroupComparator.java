@@ -3,14 +3,16 @@ import org.apache.hadoop.io.WritableComparable;
 import org.apache.hadoop.io.WritableComparator;
 
 public class GroupComparator extends WritableComparator {
-    protected GroupComparator() {
+    public GroupComparator() {
         super(CustomKey.class, true);
     }
 
     @Override
-    public int compare(WritableComparable w1, WritableComparable w2) {
-        CustomKey ck1 = (CustomKey) w1;
-        CustomKey ck2 = (CustomKey) w2;
-        return ck1.getOSType().compareTo(ck2.getOSType());
+    public int compare(WritableComparable first, WritableComparable second) {
+        CustomKey theFirst = (CustomKey)first;
+        CustomKey theSecond = (CustomKey)second;
+
+        return theFirst.compareTo(theSecond);
+
     }
 }

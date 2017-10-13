@@ -13,7 +13,7 @@ public class BidCombiner extends Reducer<CustomKey,IntWritable,CustomKey,IntWrit
         Integer count = 0;
 
         for(IntWritable value: values) {
-                count += Integer.parseInt(value.toString());
+                count += value.get();
                         }
 
         context.write(key,new IntWritable(count));

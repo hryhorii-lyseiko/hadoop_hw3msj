@@ -3,6 +3,8 @@ package mapper;
 import customtype.CustomKey;
 import eu.bitwalker.useragentutils.UserAgent;
 import org.apache.hadoop.filecache.DistributedCache;
+import org.apache.hadoop.fs.FSDataInputStream;
+import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
@@ -12,14 +14,17 @@ import org.apache.hadoop.mapreduce.Mapper;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URI;
 import java.util.HashMap;
 
 public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, IntWritable> {
 
-    private static HashMap<String, String> CustIdOrderMap = new HashMap<>();
-    private BufferedReader brReader;
+    private  HashMap<String, String> CustIdOrderMap ;
+   // private BufferedReader brReader;
     private String os_type = "";
     private String CityName = "";
+    private FileSystem fs;
 
     enum MYCOUNTER {
         RECORD_COUNT
@@ -27,28 +32,53 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
 
     @Override
     protected void setup(Context context) throws IOException, InterruptedException {
+
+        fs = FileSystem.get(context.getConfiguration());
+        CustIdOrderMap = new HashMap<>();
+        URI[] cacheFiles = context.getCacheFiles();
+        if(cacheFiles != null) {
+            for(URI uri : cacheFiles) {
+                setupOrderHashMap(new Path(uri.getPath()));
+            }
+        }
+       /* fs = FileSystem.get(context.getConfiguration());
+
         try{
-            Path[] stopWordsFiles = DistributedCache.getLocalCacheFiles(context.getConfiguration());
-            if(stopWordsFiles != null && stopWordsFiles.length > 0) {
-                for(Path stopWordFile : stopWordsFiles) {
-                    setupOrderHashMap(stopWordFile);
-                }
+             URI[] uris = context.getCacheFiles();
+             Path path = new Path(uris[0].getPath());
+
+            if(path != null && path.toString().length() > 0) {
+                setupOrderHashMap(path);
+
             }
         } catch(IOException ex) {
             System.err.println("Exception in mapper setup: " + ex.getMessage());
-        }
+        }*/
     }
+    private void setupOrderHashMap(Path filePath) throws IOException {
+        FSDataInputStream is = fs.open(filePath);
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(is, "UTF-8"));
+        String idAndCity;
+        while((idAndCity = bufferedReader.readLine()) != null) {
+            String[] sections = idAndCity.split("\t");
+            if(sections.length == 2){
+                CustIdOrderMap.put(sections[0], sections[1]);
+            }
+        }
+        is.close();
 
-    private void setupOrderHashMap(Path filePath)
+    }
+   /* private void setupOrderHashMap(Path filePath)
             throws IOException {
+        FSDataInputStream is = fs.open(filePath);
 
         String strLineRead = "";
 
         try {
-            brReader = new BufferedReader(new FileReader(filePath.toString()));
+            brReader = new BufferedReader(new InputStreamReader(is));
 
             while ((strLineRead = brReader.readLine()) != null) {
-                String custIdCityArr[] = strLineRead.toString().split("\t");
+                String custIdCityArr[] = strLineRead.split("\t");
                 CustIdOrderMap.put(custIdCityArr[0].trim(), custIdCityArr[1].trim());
             }
 
@@ -58,36 +88,40 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
         }finally {
             if (brReader != null) {
                 brReader.close();
+                is.close();
 
             }
 
         }
-    }
+    }*/
 
     @Override
     public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 
         context.getCounter(MYCOUNTER.RECORD_COUNT).increment(1);
-        int bid = 0;
-        if (value.toString().length() > 0) {
-            String custDataArr[] = value.toString().split("\t");
+        String[] rows = value.toString().split("\n");
+        for(String sections : rows){
 
-            try {
-                CityName = CustIdOrderMap.get(custDataArr[7].toString());
-                bid = Integer.parseInt(custDataArr[19].toString());
-                UserAgent userAgent = new UserAgent(custDataArr[4].toString());
-                os_type = userAgent.getOperatingSystem().getName().toString();
-            } finally {
-                CityName = ((CityName.equals(null) || CityName
-                        .equals("")) ? "NOT-FOUND" : CityName);
+            int bid = 0;
+            if (sections.toString().length() > 0) {
+                context.getCounter("if", "first").increment(1);
+                String custDataArr[] = sections.toString().split("\t");
+
+
+                CityName = CustIdOrderMap.get(custDataArr[7]);
+                bid = Integer.parseInt(custDataArr[19]);
+                UserAgent userAgent = new UserAgent(custDataArr[4]);
+                os_type = userAgent.getOperatingSystem().getName();
+                context.getCounter("size", String.valueOf(CustIdOrderMap.size())).increment(1);
+
+
             }
-
-
-
+            if (bid >= 250 && CityName != null && os_type != null) {
+                context.getCounter("if", "second").increment(1);
+                context.write(new CustomKey(new Text(CityName), new Text( os_type)), new IntWritable(1));
+            }
         }
-        if (bid >= 250) {
-            context.write(new CustomKey(new Text(CityName), new Text( os_type)), new IntWritable(1));
-        }
-        CityName = "";
+
+
     }
 }

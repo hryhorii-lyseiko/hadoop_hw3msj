@@ -8,11 +8,9 @@ import java.io.DataOutput;
 import java.io.IOException;
 
 public class CustomKey implements WritableComparable<CustomKey> {
-    private Text cityName;
-    private Text OSType;
 
-
-
+    private Text cityName = new Text();
+    private Text OSType = new Text();
 
     public CustomKey() {
 
@@ -20,8 +18,8 @@ public class CustomKey implements WritableComparable<CustomKey> {
 
     public CustomKey(Text cityName, Text OSType) {
         super();
-        this.cityName = cityName;
-        this.OSType = OSType;
+        this.cityName.set(cityName);
+        this.OSType.set(OSType);
         }
 
     public Text getOSType() {
@@ -32,7 +30,7 @@ public class CustomKey implements WritableComparable<CustomKey> {
         return cityName;
     }
 
-    public void setCityName() {
+    public void setCityName(Text cityName) {
         this.cityName = cityName;
     }
 
@@ -86,7 +84,7 @@ public class CustomKey implements WritableComparable<CustomKey> {
     @Override
     public int compareTo(CustomKey o) {
         int returnValue = OSType.compareTo( o.getOSType());
-        if (returnValue == 0) {
+        if (returnValue != 0) {
             returnValue = cityName.compareTo(o.getCityName());
         }
         return returnValue;
