@@ -129,7 +129,7 @@ public class MRTest {
         values.add(new IntWritable(1));
         values.add(new IntWritable(1));
         reduceDriver.withInput(new CustomKey(new Text("lasa"), new Text("Windows")), values);
-        reduceDriver.withOutput(new Text("lasa"), new IntWritable(5));
+        reduceDriver.withOutput(new Text("OS Name = Windows\tCity Name = lasa\t"), new IntWritable(5));
         reduceDriver.runTest();
     }
 
@@ -140,7 +140,7 @@ public class MRTest {
                 "333\t334\t3\tDD1SqS9rg5scFsf\ta228a40b44610e06f6c761afb4ef8a0b\tnull\tAuto_Width2\t960\t90\t0\t0\t20\t475d63a4a414634cb5b95dc826a6258f\t" +
                 "300\t20\t9f4e2f16b6873a7eb504df6f61b24044\n");
         mapReduceDriver.withInput(new LongWritable(2), testData);
-        mapReduceDriver.withOutput(new Text("xian"), new IntWritable(1));
+        mapReduceDriver.withOutput(new Text("OS Name = Linux\tCity Name = xian\t"), new IntWritable(1));
         mapReduceDriver.runTest();
     }
 }

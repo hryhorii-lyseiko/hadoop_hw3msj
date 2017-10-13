@@ -18,7 +18,7 @@ public class BidReducer extends Reducer<CustomKey,IntWritable,Text,IntWritable> 
 
             count += value.get();
         }
-        context.write(new Text(key.getCityName()),new IntWritable(count));
+        context.write(new Text("OS Name = " + key.getOSType() + "\t" + "City Name = " +key.getCityName() + "\t"),new IntWritable(count));
     }
 
 }

@@ -41,20 +41,7 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
                 setupOrderHashMap(new Path(uri.getPath()));
             }
         }
-       /* fs = FileSystem.get(context.getConfiguration());
-
-        try{
-             URI[] uris = context.getCacheFiles();
-             Path path = new Path(uris[0].getPath());
-
-            if(path != null && path.toString().length() > 0) {
-                setupOrderHashMap(path);
-
-            }
-        } catch(IOException ex) {
-            System.err.println("Exception in mapper setup: " + ex.getMessage());
-        }*/
-    }
+         }
     private void setupOrderHashMap(Path filePath) throws IOException {
         FSDataInputStream is = fs.open(filePath);
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(is, "UTF-8"));
@@ -68,32 +55,7 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
         is.close();
 
     }
-   /* private void setupOrderHashMap(Path filePath)
-            throws IOException {
-        FSDataInputStream is = fs.open(filePath);
 
-        String strLineRead = "";
-
-        try {
-            brReader = new BufferedReader(new InputStreamReader(is));
-
-            while ((strLineRead = brReader.readLine()) != null) {
-                String custIdCityArr[] = strLineRead.split("\t");
-                CustIdOrderMap.put(custIdCityArr[0].trim(), custIdCityArr[1].trim());
-            }
-
-        } catch (IOException e) {
-
-            e.printStackTrace();
-        }finally {
-            if (brReader != null) {
-                brReader.close();
-                is.close();
-
-            }
-
-        }
-    }*/
 
     @Override
     public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {

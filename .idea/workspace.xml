@@ -7,15 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b899de-47c5-42b4-837c-f9f2cb34f957" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/customtype/SortComparator.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/AppDriver.java" afterPath="$PROJECT_DIR$/src/main/java/AppDriver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/combiner/BidCombiner.java" afterPath="$PROJECT_DIR$/src/main/java/combiner/BidCombiner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/customtype/CustomKey.java" afterPath="$PROJECT_DIR$/src/main/java/customtype/CustomKey.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/customtype/GroupComparator.java" afterPath="$PROJECT_DIR$/src/main/java/customtype/GroupComparator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/mapper/MapSideJoinMapper.java" afterPath="$PROJECT_DIR$/src/main/java/mapper/MapSideJoinMapper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/partitioner/CustomPartitioner.java" afterPath="$PROJECT_DIR$/src/main/java/partitioner/CustomPartitioner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/reducer/BidReducer.java" afterPath="$PROJECT_DIR$/src/main/java/reducer/BidReducer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/MRTest.java" afterPath="$PROJECT_DIR$/src/test/java/MRTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,8 +36,8 @@
       <file leaf-file-name="MapSideJoinMapper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mapper/MapSideJoinMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-287">
-              <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="59">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MRTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MRTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/MRTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="142" column="49" lean-forward="false" selection-start-line="142" selection-start-column="49" selection-end-line="142" selection-end-column="49" />
+            <state relative-caret-position="2482">
+              <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,8 +96,8 @@
       <file leaf-file-name="BidCombiner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/combiner/BidCombiner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BidReducer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BidReducer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/reducer/BidReducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,8 +120,8 @@
       <file leaf-file-name="CustomPartitioner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/partitioner/CustomPartitioner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <state relative-caret-position="272">
+              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,13 +153,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/customtype/SortComparator.java" />
         <option value="$PROJECT_DIR$/src/main/java/combiner/BidCombiner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reducer/BidReducer.java" />
         <option value="$PROJECT_DIR$/src/main/java/AppDriver.java" />
         <option value="$PROJECT_DIR$/src/main/java/customtype/CustomKey.java" />
         <option value="$PROJECT_DIR$/src/main/java/customtype/GroupComparator.java" />
         <option value="$PROJECT_DIR$/src/main/resources/city" />
         <option value="$PROJECT_DIR$/src/main/java/mapper/MapSideJoinMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/partitioner/CustomPartitioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reducer/BidReducer.java" />
         <option value="$PROJECT_DIR$/src/test/java/MRTest.java" />
       </list>
     </option>
@@ -176,7 +171,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="962" />
     <option name="y" value="20" />
     <option name="width" value="974" />
@@ -290,6 +285,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hw3msj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw3msj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -313,36 +315,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MRTest.generalMRTest">
-    <configuration name="MRTest.dataMapperTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MRTest">
+    <configuration name="MRTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="hw3msj" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MRTest" />
-      <option name="METHOD_NAME" value="dataMapperTest2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="MRTest.dataMapperTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hw3msj" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MRTest" />
-      <option name="METHOD_NAME" value="dataMapperTest3" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -382,6 +364,26 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MRTest" />
       <option name="METHOD_NAME" value="dataMapperTest5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MRTest.dataReducerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="hw3msj" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MRTest" />
+      <option name="METHOD_NAME" value="dataReducerTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -496,19 +498,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest2" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest3" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest4" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest5" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MRTest.generalMRTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest4" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest5" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MRTest.generalMRTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MRTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MRTest.dataReducerTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MRTest.generalMRTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest5" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest4" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest3" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest2" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MRTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MRTest.generalMRTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MRTest.dataReducerTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest5" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MRTest.dataMapperTest4" />
       </list>
     </recent_temporary>
   </component>
@@ -531,20 +533,11 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MRTest_dataMapperTest2 - 2017.10.13 at 12h 06m 18s.xml">
-      <configuration name="MRTest.dataMapperTest2" configurationId="JUnit" />
+    <history-entry file="MRTest - 2017.10.13 at 13h 02m 30s.xml">
+      <configuration name="MRTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MRTest_dataMapperTest3 - 2017.10.13 at 12h 08m 11s.xml">
-      <configuration name="MRTest.dataMapperTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MRTest_dataMapperTest3 - 2017.10.13 at 12h 09m 26s.xml">
-      <configuration name="MRTest.dataMapperTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MRTest_dataMapperTest4 - 2017.10.13 at 12h 10m 56s.xml">
-      <configuration name="MRTest.dataMapperTest4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MRTest_dataMapperTest4 - 2017.10.13 at 12h 11m 45s.xml">
-      <configuration name="MRTest.dataMapperTest4" configurationId="JUnit" />
+    <history-entry file="MRTest - 2017.10.13 at 13h 03m 28s.xml">
+      <configuration name="MRTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MRTest_dataMapperTest4 - 2017.10.13 at 12h 12m 07s.xml">
       <configuration name="MRTest.dataMapperTest4" configurationId="JUnit" />
@@ -558,13 +551,21 @@
     <history-entry file="MRTest_dataMapperTest5 - 2017.10.13 at 12h 14m 01s.xml">
       <configuration name="MRTest.dataMapperTest5" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MRTest_dataReducerTest - 2017.10.13 at 13h 03m 03s.xml">
+      <configuration name="MRTest.dataReducerTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="MRTest_generalMRTest - 2017.10.13 at 12h 14m 37s.xml">
+      <configuration name="MRTest.generalMRTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MRTest_generalMRTest - 2017.10.13 at 13h 03m 07s.xml">
+      <configuration name="MRTest.generalMRTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MRTest_generalMRTest - 2017.10.13 at 13h 03m 22s.xml">
       <configuration name="MRTest.generalMRTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -575,7 +576,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -787,20 +788,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapper/MapSideJoinMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/combiner/BidCombiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-287">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MRTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapper/MapSideJoinMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="142" column="49" lean-forward="false" selection-start-line="142" selection-start-column="49" selection-end-line="142" selection-end-column="49" />
+        <state relative-caret-position="59">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -809,18 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/partitioner/CustomPartitioner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/combiner/BidCombiner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="272">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -829,8 +820,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reducer/BidReducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MRTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
