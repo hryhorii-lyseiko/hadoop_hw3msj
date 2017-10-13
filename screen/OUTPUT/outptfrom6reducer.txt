@@ -1,0 +1,503 @@
+OS Name = Unknown mobile	City Name = baise		1
+OS Name = Unknown	City Name = baoji		1
+OS Name = Mac OS	City Name = beihai		2
+OS Name = Unknown	City Name = beijing		6
+OS Name = MeeGo	City Name = hangzhou		1
+OS Name = BlackBerry Tablet OS	City Name = beijing		7
+OS Name = MeeGo	City Name = fujian		1
+OS Name = Unknown	City Name = beijing		19
+OS Name = MeeGo	City Name = haikou		4
+OS Name = Unknown	City Name = beijing		8
+OS Name = MeeGo	City Name = jiangsu		1
+OS Name = Unknown	City Name = beijing		5
+OS Name = MeeGo	City Name = guangxi		1
+OS Name = BlackBerryOS	City Name = beijing		8
+OS Name = BlackBerry Tablet OS	City Name = beijing		4
+OS Name = Unknown	City Name = beijing		137
+OS Name = Chrome OS	City Name = beijing		7
+OS Name = Unknown mobile	City Name = changsha		1
+OS Name = Symbian OS	City Name = changzhou		1
+OS Name = Chrome OS	City Name = chengdu		4
+OS Name = Sony Playstation	City Name = chongqing		2
+OS Name = Bada	City Name = guangzhou		1
+OS Name = Unknown mobile	City Name = haikou		2
+OS Name = Sony Playstation	City Name = beijing		64
+OS Name = BlackBerry Tablet OS	City Name = guangdong		3
+OS Name = Unknown mobile	City Name = guiyang		1
+OS Name = WebOS	City Name = handan		1
+OS Name = MeeGo	City Name = chengdu		2
+OS Name = Unknown	City Name = anhui		123
+OS Name = BlackBerry 7	City Name = chongqing		1
+OS Name = BlackBerry Tablet OS	City Name = beijing		1
+OS Name = Unknown mobile	City Name = daqing		5
+OS Name = BlackBerry Tablet OS	City Name = datong		5
+OS Name = Unknown mobile	City Name = beijing		2
+OS Name = Chrome OS	City Name = deyang		1
+OS Name = Unknown	City Name = aba		18
+OS Name = Bada	City Name = aomen		2
+OS Name = BlackBerry Tablet OS	City Name = beijing		1
+OS Name = Symbian OS	City Name = changsha		1
+OS Name = Unknown	City Name = chengdu		5
+OS Name = Sony Playstation	City Name = dali		4
+OS Name = Symbian OS	City Name = dongguan		2
+OS Name = Unknown mobile	City Name = guangdong		2
+OS Name = BlackBerryOS	City Name = guangzhou		1
+OS Name = Unknown mobile	City Name = changchun		7
+OS Name = BlackBerry Tablet OS	City Name = guangzhou		2
+OS Name = Unknown	City Name = bangbu		152
+OS Name = BlackBerry Tablet OS	City Name = anyang		5
+OS Name = Chrome OS	City Name = beijing		1
+OS Name = BlackBerry Tablet OS	City Name = dongguan		1
+OS Name = Sony Playstation	City Name = guilin		2
+OS Name = Symbian OS	City Name = haerbin		1
+OS Name = Symbian OS 9.x	City Name = hefei		1
+OS Name = Unknown mobile	City Name = hunan		2
+OS Name = Unknown	City Name = guangzhou		223
+OS Name = Symbian OS 9.x	City Name = huzhou		1
+OS Name = BlackBerry Tablet OS	City Name = huaihua		2
+OS Name = MeeGo	City Name = huhehaote		1
+OS Name = Chrome OS	City Name = jiangmen		2
+OS Name = BlackBerry 7	City Name = chongqing		2
+OS Name = Unknown mobile	City Name = jiangmen		3
+OS Name = Unknown mobile	City Name = beijing		294
+OS Name = Sony Playstation	City Name = fuzhou_124		1
+OS Name = Unknown	City Name = binzhou		234
+OS Name = MeeGo	City Name = jinhua		6
+OS Name = Symbian OS 9.x	City Name = lanzhou		1
+OS Name = Unknown	City Name = chaohu		178
+OS Name = BlackBerry 7	City Name = beijing		20
+OS Name = Unknown	City Name = guangzhou		118
+OS Name = Symbian OS 9.x	City Name = lanzhou		1
+OS Name = BlackBerry 7	City Name = kunming		2
+OS Name = Sony Playstation	City Name = liuzhou		2
+OS Name = WebOS	City Name = nanchang		1
+OS Name = MeeGo	City Name = nanjing		1
+OS Name = Unknown	City Name = haerbin		54
+OS Name = BlackBerry Tablet OS	City Name = unknown		251
+OS Name = Unknown	City Name = foshan		46
+OS Name = MeeGo	City Name = chengdu		3
+OS Name = Unknown	City Name = guangzhou		3
+OS Name = BlackBerry Tablet OS	City Name = jilin		3
+OS Name = Sony Playstation	City Name = nantong		1
+OS Name = Symbian OS	City Name = ningbo		2
+OS Name = Unknown	City Name = beijing		167
+OS Name = MeeGo	City Name = foshan		7
+OS Name = Unknown	City Name = beijing		156
+OS Name = MeeGo	City Name = dongguan		1
+OS Name = BlackBerry Tablet OS	City Name = guangzhou		1
+OS Name = MeeGo	City Name = kunming		3
+OS Name = Bada	City Name = lianyungang		1
+OS Name = BlackBerry Tablet OS	City Name = nanjing		2
+OS Name = Unknown	City Name = guangdong		53
+OS Name = MeeGo	City Name = shandong		3
+OS Name = BlackBerryOS	City Name = tianjin		1
+OS Name = BlackBerry Tablet OS	City Name = chengdu		132
+OS Name = Unknown mobile	City Name = beijing		2
+OS Name = Symbian OS 9.x	City Name = fuzhou_124		1
+OS Name = Sony Playstation	City Name = guangzhou		1
+OS Name = MeeGo	City Name = jinan		2
+OS Name = Symbian OS	City Name = liaoning		2
+OS Name = Sony Playstation	City Name = luoyang		1
+OS Name = Mac OS	City Name = nanjing		1
+OS Name = MeeGo	City Name = kunming		2
+OS Name = Symbian OS 9.x	City Name = shenyang		1
+OS Name = Sony Playstation	City Name = nanjing		2
+OS Name = Symbian OS 9.x	City Name = nanyang		2
+OS Name = MeeGo	City Name = kunming		8
+OS Name = Sony Playstation	City Name = shanghai		1
+OS Name = BlackBerry 6	City Name = shenzhen		1
+OS Name = MeeGo	City Name = suzhou_jiangsu		2
+OS Name = Unknown mobile	City Name = shenzhen		2
+OS Name = Unknown	City Name = suzhou_jiangsu		185
+OS Name = Symbian OS	City Name = huaihua		1
+OS Name = BlackBerry Tablet OS	City Name = luoyang		1
+OS Name = Unknown mobile	City Name = ningde		1
+OS Name = BlackBerry 7	City Name = suzhou_jiangsu		1
+OS Name = Sony Playstation	City Name = xian		1
+OS Name = Unknown mobile	City Name = shizuishan		1
+OS Name = Symbian OS	City Name = taiwan		1
+OS Name = Unknown	City Name = shijiazhuang		125
+OS Name = Sony Playstation	City Name = shaoyang		3
+OS Name = Unknown mobile	City Name = shenzhen		1
+OS Name = MeeGo	City Name = suzhou_jiangsu		1
+OS Name = Sony Playstation	City Name = taiwan		1
+OS Name = Unknown	City Name = guangzhou		13
+OS Name = Chrome OS	City Name = unknown		1
+OS Name = Unknown	City Name = changji		9
+OS Name = SunOS	City Name = unknown		3
+OS Name = Unknown	City Name = baoding		25
+OS Name = Chrome OS	City Name = unknown		1
+OS Name = Unknown	City Name = puer		91
+OS Name = BlackBerry Tablet OS	City Name = unknown		1
+OS Name = Unknown	City Name = guangzhou		82
+OS Name = Unknown mobile	City Name = wuhan		1
+OS Name = Symbian OS 9.x	City Name = guangzhou		1
+OS Name = Symbian OS	City Name = guiyang		1
+OS Name = Sony Playstation	City Name = hefei		1
+OS Name = Unknown	City Name = taizhou		172
+OS Name = Symbian OS 9.x	City Name = shenyang		1
+OS Name = Unknown mobile	City Name = shijiazhuang		1
+OS Name = BlackBerry 6	City Name = unknown		1
+OS Name = BlackBerry Tablet OS	City Name = wuhan		1
+OS Name = Sony Playstation	City Name = xian		1
+OS Name = Unknown mobile	City Name = dongguan		2
+OS Name = MeeGo	City Name = fuzhou_124		1
+OS Name = Unknown	City Name = wuhan		209
+OS Name = Symbian OS	City Name = kunming		1
+OS Name = BlackBerry Tablet OS	City Name = nanning		1
+OS Name = Unknown mobile	City Name = shenzhen		1
+OS Name = Symbian OS 9.x	City Name = shijiazhuang		1
+OS Name = MeeGo	City Name = suzhou_jiangsu		1
+OS Name = BlackBerry 7	City Name = taiyuan		3
+OS Name = Unknown	City Name = unknown		17
+OS Name = Unknown	City Name = beijing		120
+OS Name = BlackBerry Tablet OS	City Name = datong		1
+OS Name = Symbian OS	City Name = gansu		1
+OS Name = Symbian OS 9.x	City Name = guangdong		1
+OS Name = WebOS	City Name = hebei		1
+OS Name = MeeGo	City Name = shantou		2
+OS Name = Symbian OS	City Name = shenyang		1
+OS Name = Sony Playstation	City Name = shenzhen		1
+OS Name = Sony Ericsson	City Name = tianjin		1
+OS Name = Nintendo Wii	City Name = unknown		3
+OS Name = WebOS	City Name = wuhan		1
+OS Name = Unknown	City Name = shangqiu		51
+OS Name = MeeGo	City Name = guangzhou		64
+OS Name = Unknown	City Name = shenzhen		65
+OS Name = BlackBerryOS	City Name = guangzhou		1
+OS Name = Unknown	City Name = hangzhou		26
+OS Name = Sony Playstation	City Name = guangzhou		1
+OS Name = Unknown	City Name = zhengzhou		53
+OS Name = Unknown mobile	City Name = tianjin		1
+OS Name = Chrome OS	City Name = unknown		1
+OS Name = MeeGo	City Name = shantou		3
+OS Name = Unknown mobile	City Name = shenzhen		1
+OS Name = MeeGo	City Name = wuhan		1
+OS Name = Unknown	City Name = taiyuan		355
+OS Name = Symbian OS 9.x	City Name = shandong		2
+OS Name = MeeGo	City Name = guiyang		2
+OS Name = Unknown	City Name = shanghai		7
+OS Name = BlackBerry Tablet OS	City Name = ningbo		1
+OS Name = Unknown	City Name = mudanjiang		229
+OS Name = Chrome OS	City Name = shanghai		4
+OS Name = Sony Playstation	City Name = shijiazhuang		1
+OS Name = Unknown	City Name = guangzhou		7
+OS Name = Sony Playstation	City Name = haikou		1
+OS Name = Unknown	City Name = guangzhou		2
+OS Name = Sony Playstation	City Name = nanning		6
+OS Name = Unknown	City Name = guangzhou		2
+OS Name = Sony Playstation	City Name = haikou		1
+OS Name = Unknown	City Name = guangzhou		10
+OS Name = Symbian OS	City Name = hebi		1
+OS Name = MeeGo	City Name = hefei		1
+OS Name = Chrome OS	City Name = jinhua		1
+OS Name = WebOS	City Name = shenzhen		2
+OS Name = Unknown	City Name = sichuan		187
+OS Name = Symbian OS	City Name = nanchang		1
+OS Name = Unknown	City Name = nanchong		129
+OS Name = MeeGo	City Name = nanjing		1
+OS Name = Sony Playstation	City Name = shanghai		1
+OS Name = Chrome OS	City Name = suzhou_jiangsu		1
+OS Name = Unknown	City Name = beijing		199
+OS Name = Bada	City Name = taiwan		1
+OS Name = Unknown mobile	City Name = taiyuan		4
+OS Name = Unknown	City Name = liuzhou		43
+OS Name = Chrome OS	City Name = beijing		1
+OS Name = Unknown	City Name = nanjing		22
+OS Name = Symbian OS	City Name = changsha		1
+OS Name = Sony Playstation	City Name = foshan		1
+OS Name = Unknown	City Name = tianjin		3
+OS Name = BlackBerry Tablet OS	City Name = shandong		1
+OS Name = Unknown	City Name = tianjin		2
+OS Name = BlackBerry Tablet OS	City Name = jinan		1
+OS Name = Unknown	City Name = shenzhen		133
+OS Name = MeeGo	City Name = guangzhou		1
+OS Name = Unknown	City Name = zhongshan		99
+OS Name = Sony Playstation	City Name = guangzhou		1
+OS Name = Unknown	City Name = nanning		47
+OS Name = Unknown	City Name = shenzhen		3
+OS Name = Sony Playstation	City Name = guangzhou		2
+OS Name = Unknown	City Name = shantou		27
+OS Name = Sony Playstation	City Name = guangzhou		1
+OS Name = Unknown	City Name = huizhou		91
+OS Name = Unknown mobile	City Name = guangzhou		1
+OS Name = Unknown	City Name = shenzhen		82
+OS Name = Unknown	City Name = guangzhou		7
+OS Name = MeeGo	City Name = jiangmen		3
+OS Name = Unknown	City Name = nanning		2
+OS Name = Sony Playstation	City Name = shanghai		1
+OS Name = Unknown	City Name = shannxi		12
+OS Name = BlackBerry Tablet OS	City Name = shanghai		1
+OS Name = Unknown	City Name = shangluo		1
+OS Name = Sony Playstation	City Name = shanghai		1
+OS Name = BlackBerry 7	City Name = shenzhen		14
+OS Name = Unknown	City Name = mianyang		181
+OS Name = Unknown mobile	City Name = beijing		1
+OS Name = Unknown	City Name = hangzhou		41
+OS Name = Symbian OS	City Name = unknown		2
+OS Name = Symbian OS 9.x	City Name = hefei		1
+OS Name = Unknown	City Name = luohe		180
+OS Name = Symbian OS	City Name = tianjin		1
+OS Name = Chrome OS	City Name = unknown		2
+OS Name = Sony Playstation	City Name = xianggang		1
+OS Name = MeeGo	City Name = chengdu		1
+OS Name = Unknown mobile	City Name = hefei		1
+OS Name = Unknown	City Name = ganzhou		16
+OS Name = Sony Playstation	City Name = huaian		1
+OS Name = Unknown	City Name = weifang		82
+OS Name = Unknown mobile	City Name = shenzhen		2
+OS Name = Xbox OS	City Name = taiwan		1
+OS Name = Symbian OS	City Name = unknown		1
+OS Name = Sony Playstation	City Name = xian		1
+OS Name = Unknown	City Name = zhangjiakou		7
+OS Name = Unknown mobile	City Name = jiangmen		1
+OS Name = Unknown	City Name = unknown		63
+OS Name = BlackBerry Tablet OS	City Name = shanghai		1
+OS Name = Unknown	City Name = unknown		14
+OS Name = BlackBerry Tablet OS	City Name = shanghai		1
+OS Name = Unknown	City Name = shenzhen		23
+OS Name = Unknown mobile	City Name = shanghai		1
+OS Name = Unknown	City Name = zhongshan		47
+OS Name = Symbian OS 9.x	City Name = shijiazhuang		1
+OS Name = BlackBerry Tablet OS	City Name = shenzhen		3
+OS Name = Unknown	City Name = quzhou		325
+OS Name = Symbian OS	City Name = kunming		3
+OS Name = Chrome OS	City Name = nanjing		1
+OS Name = Sony Playstation	City Name = suzhou_jiangsu		1
+OS Name = BlackBerry Tablet OS	City Name = anyang		3
+OS Name = Unknown mobile	City Name = beijing		2
+OS Name = Unknown	City Name = ningbo		228
+OS Name = MeeGo	City Name = dongguan		1
+OS Name = Maemo	City Name = fuzhou_124		2
+OS Name = BlackBerryOS	City Name = guangzhou		5
+OS Name = MeeGo	City Name = haerbin		1
+OS Name = Unknown mobile	City Name = guiyang		8
+OS Name = MeeGo	City Name = langfang		1
+OS Name = Symbian OS 9.x	City Name = shenyang		4
+OS Name = BlackBerry Tablet OS	City Name = xingtai		2
+OS Name = Sony Playstation	City Name = mianyang		1
+OS Name = BlackBerry Tablet OS	City Name = beijing		4
+OS Name = Unknown	City Name = huangshan		200
+OS Name = MeeGo	City Name = hangzhou		1
+OS Name = WebOS	City Name = hebei		1
+OS Name = Sony Playstation	City Name = huzhou		1
+OS Name = BlackBerry 7	City Name = jiangsu		1
+OS Name = Unknown mobile	City Name = shenyang		1
+OS Name = Symbian OS 9.x	City Name = shijiazhuang		1
+OS Name = BlackBerry Tablet OS	City Name = suzhou_jiangsu		1
+OS Name = Unknown	City Name = huzhou		127
+OS Name = Unknown mobile	City Name = tianjin		1
+OS Name = BlackBerry Tablet OS	City Name = unknown		2
+OS Name = Unknown	City Name = taiyuan		209
+OS Name = Sony Playstation	City Name = guangdong		1
+OS Name = Unknown mobile	City Name = guangzhou		1
+OS Name = Sony Playstation	City Name = shanghai		1
+OS Name = BlackBerry Tablet OS	City Name = unknown		8
+OS Name = Sony Playstation	City Name = beijing		2
+OS Name = Sony Ericsson	City Name = guangdong		1
+OS Name = Symbian OS 9.x	City Name = hangzhou		1
+OS Name = Unknown	City Name = shanghai		115
+OS Name = BlackBerry Tablet OS	City Name = tianjin		3
+OS Name = Unknown	City Name = shanghai		1
+OS Name = BlackBerry Tablet OS	City Name = shenyang		2
+OS Name = BlackBerry Tablet OS	City Name = unknown		59
+OS Name = Unknown	City Name = jiangmen		154
+OS Name = BlackBerry Tablet OS	City Name = unknown		64
+OS Name = Unknown	City Name = zhuhai		1
+OS Name = BlackBerry 7	City Name = unknown		43
+OS Name = Unknown	City Name = dalian		322
+OS Name = MeeGo	City Name = beijing		1
+OS Name = Sony Playstation	City Name = enshishi		1
+OS Name = Unknown	City Name = guangdong		154
+OS Name = Symbian OS 9.x	City Name = fujian		1
+OS Name = MeeGo	City Name = guangdong		1
+OS Name = Symbian OS	City Name = beihai		7
+OS Name = MeeGo	City Name = beijing		3
+OS Name = MeeGo	City Name = beijing		4
+OS Name = Unknown	City Name = chongqing		179
+OS Name = BlackBerry Tablet OS	City Name = guilin		1
+OS Name = Sony Playstation	City Name = jilin_city		6
+OS Name = Unknown	City Name = huangshi		189
+OS Name = Nintendo Wii	City Name = linyi		1
+OS Name = Bada	City Name = shandong		1
+OS Name = Symbian OS 9.x	City Name = shanghai		1
+OS Name = MeeGo	City Name = shantou		2
+OS Name = Chrome OS	City Name = unknown		1
+OS Name = MeeGo	City Name = liuzhou		4
+OS Name = Sony Playstation	City Name = nanjing		1
+OS Name = Symbian OS	City Name = shenyang		4
+OS Name = BlackBerry Tablet OS	City Name = deyang		11
+OS Name = PalmOS	City Name = dongguan		1
+OS Name = MeeGo	City Name = foshan		1
+OS Name = BlackBerryOS	City Name = guangzhou		1
+OS Name = Maemo	City Name = hengyang		1
+OS Name = Sony Playstation	City Name = ningbo		1
+OS Name = Symbian OS 9.x	City Name = shandong		1
+OS Name = Unknown	City Name = shanghai		135
+OS Name = Sony Playstation	City Name = ningbo		4
+OS Name = Unknown mobile	City Name = beijing		2
+OS Name = Sony Playstation	City Name = ningbo		1
+OS Name = Unknown	City Name = lanzhou		156
+OS Name = MeeGo	City Name = qingdao		4
+OS Name = Symbian OS 9.x	City Name = nanning		2
+OS Name = BlackBerry Tablet OS	City Name = shijiazhuang		2
+OS Name = Chrome OS	City Name = taiyuan		3
+OS Name = Unknown	City Name = shanghai		170
+OS Name = BlackBerry Tablet OS	City Name = tianjin		10
+OS Name = Unknown mobile	City Name = liaoning		13
+OS Name = Symbian OS	City Name = ningbo		1
+OS Name = SunOS	City Name = shanghai		1
+OS Name = BlackBerry Tablet OS	City Name = jiaxing		4
+OS Name = Maemo	City Name = taizhou_jiangsu		3
+OS Name = Symbian OS 9.x	City Name = weihai		1
+OS Name = Symbian OS 9.x	City Name = wuhan		3
+OS Name = Unknown	City Name = beijing		219
+OS Name = BlackBerry Tablet OS	City Name = chengdu		1
+OS Name = Symbian OS 9.x	City Name = shanghai		2
+OS Name = Sony Playstation	City Name = guangzhou		1
+OS Name = MeeGo	City Name = sichuan		5
+OS Name = Symbian OS 9.x	City Name = huizhou		1
+OS Name = Unknown mobile	City Name = liaoning		1
+OS Name = Sony Playstation	City Name = shanghai		3
+OS Name = Unknown mobile	City Name = taiwan		1
+OS Name = BlackBerry Tablet OS	City Name = unknown		8
+OS Name = Unknown mobile	City Name = wenshan		3
+OS Name = BlackBerry Tablet OS	City Name = wuhan		1
+OS Name = Maemo	City Name = shaoguan		2
+OS Name = Unknown	City Name = foshan		61
+OS Name = BlackBerryOS	City Name = tianjin		1
+OS Name = Symbian OS	City Name = unknown		1
+OS Name = Maemo	City Name = wulumuqi		3
+OS Name = BlackBerry Tablet OS	City Name = weifang		2
+OS Name = Maemo	City Name = wulumuqi		2
+OS Name = Sony Playstation	City Name = haerbin		1
+OS Name = Unknown mobile	City Name = hangzhou		1
+OS Name = Maemo	City Name = ningbo		1
+OS Name = Symbian OS	City Name = qingdao		1
+OS Name = Sony Playstation	City Name = suzhou_jiangsu		2
+OS Name = BlackBerry Tablet OS	City Name = tianjin		2
+OS Name = Unknown mobile	City Name = unknown		1
+OS Name = Sony Playstation	City Name = weifang		303
+OS Name = Unknown mobile	City Name = wuhan		1
+OS Name = BlackBerry Tablet OS	City Name = shijiazhuang		2
+OS Name = Bada	City Name = taiwan		1
+OS Name = Chrome OS	City Name = unknown		4
+OS Name = Unknown mobile	City Name = shijiazhuang		4
+OS Name = BlackBerry Tablet OS	City Name = sichuan		2
+OS Name = Chrome OS	City Name = unknown		1
+OS Name = BlackBerryOS	City Name = wuxi		1
+OS Name = Unknown	City Name = shanghai		243
+OS Name = Symbian OS 9.x	City Name = fuzhou_124		1
+OS Name = Unknown mobile	City Name = nanjing		2
+OS Name = MeeGo	City Name = qingdao		1
+OS Name = BlackBerry 7	City Name = shenzhen		1
+OS Name = Symbian OS	City Name = taiwan		1
+OS Name = Symbian OS	City Name = unknown		4
+OS Name = BlackBerry Tablet OS	City Name = lishui		2
+OS Name = BlackBerry 6	City Name = unknown		3
+OS Name = Symbian OS 9.x	City Name = wenzhou		1
+OS Name = Maemo	City Name = unknown		1
+OS Name = Unknown	City Name = beijing		118
+OS Name = BlackBerryOS	City Name = xian		1
+OS Name = MeeGo	City Name = nanning		1
+OS Name = Sony Playstation	City Name = dalian		3
+OS Name = Symbian OS 9.x	City Name = hangzhou		1
+OS Name = Unknown	City Name = suqian		183
+OS Name = Unknown mobile	City Name = unknown		2
+OS Name = Unknown	City Name = langfang		211
+OS Name = Sony Playstation	City Name = nanjing		1
+OS Name = Maemo	City Name = taizhou		1
+OS Name = BlackBerry Tablet OS	City Name = shijiazhuang		4
+OS Name = Unknown mobile	City Name = zhengzhou		2
+OS Name = MeeGo	City Name = xian		1
+OS Name = Unknown	City Name = unknown		22
+OS Name = MeeGo	City Name = shanghai		1
+OS Name = Unknown	City Name = xiamen		21
+OS Name = Unknown mobile	City Name = shenzhen		1
+OS Name = Sony Playstation	City Name = quanzhou		2
+OS Name = Bada	City Name = shijiazhuang		1
+OS Name = Unknown mobile	City Name = nanjing		2
+OS Name = Sony Playstation	City Name = tonghua		1
+OS Name = Unknown	City Name = unknown		250
+OS Name = Unknown mobile	City Name = zibo		1
+OS Name = Unknown	City Name = wuxi		141
+OS Name = BlackBerry 6	City Name = unknown		1
+OS Name = Unknown	City Name = xian		120
+OS Name = Unknown	City Name = beijing		18
+OS Name = MeeGo	City Name = guangdong		1
+OS Name = BlackBerry Tablet OS	City Name = guangxi		1
+OS Name = BlackBerryOS	City Name = guangdong		3
+OS Name = Symbian OS	City Name = shijiazhuang		6
+OS Name = Unknown	City Name = dandong		121
+OS Name = Sony Playstation	City Name = lanzhou		1
+OS Name = MeeGo	City Name = wuhan		1
+OS Name = BlackBerryOS	City Name = xian		1
+OS Name = Symbian OS	City Name = xiangfan		2
+OS Name = Unknown mobile	City Name = xianggang		1
+OS Name = Unknown	City Name = foshan		235
+OS Name = MeeGo	City Name = yangzhou		1
+OS Name = Unknown mobile	City Name = yancheng		1
+OS Name = Symbian OS	City Name = yantai		1
+OS Name = Sony Playstation	City Name = yibin		3
+OS Name = MeeGo	City Name = zhuhai		1
+OS Name = Unknown	City Name = beijing		173
+OS Name = MeeGo	City Name = guangzhou		1
+OS Name = Unknown	City Name = xiamen		163
+OS Name = MeeGo	City Name = shenyang		1
+OS Name = BlackBerry Tablet OS	City Name = unknown		3
+OS Name = Symbian OS	City Name = ganzhou		1
+OS Name = BlackBerry Tablet OS	City Name = unknown		1
+OS Name = MeeGo	City Name = guangdong		4
+OS Name = Symbian OS	City Name = huizhou		1
+OS Name = Symbian OS	City Name = unknown		5
+OS Name = Unknown	City Name = unknown		125
+OS Name = MeeGo	City Name = wenzhou		3
+OS Name = BlackBerry Tablet OS	City Name = wuhan		2
+OS Name = WebOS	City Name = xian		1
+OS Name = BlackBerry Tablet OS	City Name = yingtan		3
+OS Name = MeeGo	City Name = zhanjiang		1
+OS Name = Unknown	City Name = xuzhou		161
+OS Name = BlackBerryOS	City Name = beijing		1
+OS Name = Unknown	City Name = lianyungang		32
+OS Name = BlackBerry Tablet OS	City Name = lvliang		1
+OS Name = Sony Playstation	City Name = guangzhou		2
+OS Name = BlackBerry Tablet OS	City Name = shanghai		1
+OS Name = Symbian OS	City Name = tianjin		1
+OS Name = Chrome OS	City Name = unknown		1
+OS Name = Sony Playstation	City Name = nanjing		2
+OS Name = Unknown mobile	City Name = xiamen		1
+OS Name = Unknown	City Name = zunyi		166
+OS Name = Mac OS	City Name = beihai		1
+OS Name = MeeGo	City Name = hefei		1
+OS Name = Sony Playstation	City Name = ningbo		2
+OS Name = MeeGo	City Name = nanchang		2
+OS Name = BlackBerry Tablet OS	City Name = taiwan		1
+OS Name = Chrome OS	City Name = unknown		1
+OS Name = Unknown mobile	City Name = chengdu		2
+OS Name = Unknown	City Name = zhaoqing		44
+OS Name = BlackBerry Tablet OS	City Name = unknown		1
+OS Name = Unknown	City Name = xian		82
+OS Name = Unknown mobile	City Name = unknown		1
+OS Name = Unknown	City Name = wuxi		229
+OS Name = BlackBerry 7	City Name = chongqing		1
+OS Name = Maemo	City Name = shenyang		2
+OS Name = MeeGo	City Name = guangxi		6
+OS Name = BlackBerry Tablet OS	City Name = jiangsu		1
+OS Name = Symbian OS 9.x	City Name = shijiazhuang		1
+OS Name = MeeGo	City Name = taizhou		1
+OS Name = BlackBerry Tablet OS	City Name = unknown		2
+OS Name = Symbian OS	City Name = xianggang		2
+OS Name = Unknown mobile	City Name = xuchang		1
+OS Name = MeeGo	City Name = yangjiang		1
+OS Name = Maemo	City Name = zhangjiakou		1
+OS Name = Unknown mobile	City Name = zhengzhou		1
+OS Name = Sony Playstation	City Name = wuxi		6
+OS Name = BlackBerry Tablet OS	City Name = shanghai		7
+OS Name = Unknown	City Name = guangzhou		133
+OS Name = BlackBerry Tablet OS	City Name = zhongshan		1
+OS Name = Unknown	City Name = zhuhai		408
+OS Name = Unknown mobile	City Name = unknown		1
+OS Name = Unknown	City Name = zhuhai		110
+OS Name = Bada	City Name = xianggang		1
+OS Name = Unknown mobile	City Name = xuzhou		1
+OS Name = Maemo	City Name = zunyi		1

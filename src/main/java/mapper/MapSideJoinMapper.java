@@ -2,7 +2,7 @@ package mapper;
 
 import customtype.CustomKey;
 import eu.bitwalker.useragentutils.UserAgent;
-import org.apache.hadoop.filecache.DistributedCache;
+
 import org.apache.hadoop.fs.FSDataInputStream;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
@@ -79,6 +79,17 @@ public class MapSideJoinMapper extends Mapper<LongWritable, Text, CustomKey, Int
 
             }
             if (bid >= 250 && CityName != null && os_type != null) {
+                if (os_type.toLowerCase().contains("mac os")){
+                    os_type = "Mac OS";
+                } else if (os_type.toLowerCase().contains("linux") || os_type.toLowerCase().contains("ubuntu")){
+                    os_type = "Linux";
+                }else  if (os_type.toLowerCase().contains("android")){
+                    os_type = "Android";
+                }else if (os_type.toLowerCase().contains("ios")){
+                    os_type = "iOS";
+                }else if (os_type.toLowerCase().contains("windows")){
+                    os_type = "Windows";
+                }
                 context.getCounter("if", "second").increment(1);
                 context.write(new CustomKey(new Text(CityName), new Text( os_type)), new IntWritable(1));
             }

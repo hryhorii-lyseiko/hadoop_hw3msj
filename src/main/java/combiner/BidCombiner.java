@@ -14,7 +14,7 @@ public class BidCombiner extends Reducer<CustomKey,IntWritable,CustomKey,IntWrit
 
         for(IntWritable value: values) {
                 count += value.get();
-                        }
+        }
 
         context.write(key,new IntWritable(count));
     }

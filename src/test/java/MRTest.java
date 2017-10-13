@@ -81,7 +81,7 @@ public class MRTest {
                 "155.69.2.*\t0\t0\t3\tersbQv1RdoTy1m58uG\t6b15273f500688b75e47e6c2c8079c93\tnull\tSports_F_Rectangle\t300\t250\t0\t0\t50\tf206493d1a82b7d977075b20b7afd5f4\t" +
                 "300\t120\tdf6f61b2409f4e2f16b6873a7eb50444");
         mapDriver.withInput(new LongWritable(1), text);
-        mapDriver.withOutput(new CustomKey(new Text("unknown"), new Text("iOS 6 (iPad)")), new IntWritable(1));
+        mapDriver.withOutput(new CustomKey(new Text("unknown"), new Text("iOS")), new IntWritable(1));
         mapDriver.runTest();
     }
 
@@ -92,7 +92,7 @@ public class MRTest {
                 "112.96.131.*\t216\t222\t3\tersbQv1RdoTy1m58uG\t13d975bcb425ee8b0a8726f43f3ec0ad\tnull\tSports_F_Rectangle\t300\t250\t0\t0\t50\tf206493d1a82b7d977075b20b7afd5f4\t300\t120\t" +
                 "df6f61b2409f4e2f16b6873a7eb50444\n");
         mapDriver.withInput(new LongWritable(1), text);
-        mapDriver.withOutput(new CustomKey(new Text("foshan"), new Text("Android 2.x")), new IntWritable(1));
+        mapDriver.withOutput(new CustomKey(new Text("foshan"), new Text("Android")), new IntWritable(1));
         mapDriver.runTest();
     }
 
@@ -129,7 +129,7 @@ public class MRTest {
         values.add(new IntWritable(1));
         values.add(new IntWritable(1));
         reduceDriver.withInput(new CustomKey(new Text("lasa"), new Text("Windows")), values);
-        reduceDriver.withOutput(new Text("OS Name = Windows\tCity Name = lasa\t"), new IntWritable(5));
+        reduceDriver.withOutput(new Text("OS Name = Windows\tCity Name = lasa\tAmount event per city = "), new IntWritable(5));
         reduceDriver.runTest();
     }
 
@@ -140,7 +140,8 @@ public class MRTest {
                 "333\t334\t3\tDD1SqS9rg5scFsf\ta228a40b44610e06f6c761afb4ef8a0b\tnull\tAuto_Width2\t960\t90\t0\t0\t20\t475d63a4a414634cb5b95dc826a6258f\t" +
                 "300\t20\t9f4e2f16b6873a7eb504df6f61b24044\n");
         mapReduceDriver.withInput(new LongWritable(2), testData);
-        mapReduceDriver.withOutput(new Text("OS Name = Linux\tCity Name = xian\t"), new IntWritable(1));
+        mapReduceDriver.withOutput(new Text("OS Name = Linux\tCity Name = xian\tAmount event per city = "), new IntWritable(1));
+
         mapReduceDriver.runTest();
     }
 }

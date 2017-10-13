@@ -18,7 +18,7 @@ public class CustomPartitioner extends Partitioner<CustomKey, IntWritable> {
             res = 1;
         }else if(OSType.contains("android")){
             res = 2;
-        }else if(OSType.contains("mac os x")){
+        }else if(OSType.contains("mac os")){
             res = 3;
         }else if(OSType.contains("ios")){
             res = 4;

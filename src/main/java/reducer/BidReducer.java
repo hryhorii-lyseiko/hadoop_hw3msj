@@ -15,10 +15,10 @@ public class BidReducer extends Reducer<CustomKey,IntWritable,Text,IntWritable> 
         Integer count=0;
 
         for(IntWritable value: values) {
-
             count += value.get();
         }
-        context.write(new Text("OS Name = " + key.getOSType() + "\t" + "City Name = " +key.getCityName() + "\t"),new IntWritable(count));
+
+        context.write(new Text("OS Name = " + key.getOSType()  + "\tCity Name = " +key.getCityName() + "\tAmount event per city = "),new IntWritable(count));
     }
 
 }
