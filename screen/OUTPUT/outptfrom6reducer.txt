@@ -1,503 +1,693 @@
-OS Name = Unknown mobile	City Name = baise		1
-OS Name = Unknown	City Name = baoji		1
-OS Name = Mac OS	City Name = beihai		2
-OS Name = Unknown	City Name = beijing		6
-OS Name = MeeGo	City Name = hangzhou		1
-OS Name = BlackBerry Tablet OS	City Name = beijing		7
-OS Name = MeeGo	City Name = fujian		1
-OS Name = Unknown	City Name = beijing		19
-OS Name = MeeGo	City Name = haikou		4
-OS Name = Unknown	City Name = beijing		8
-OS Name = MeeGo	City Name = jiangsu		1
-OS Name = Unknown	City Name = beijing		5
-OS Name = MeeGo	City Name = guangxi		1
-OS Name = BlackBerryOS	City Name = beijing		8
-OS Name = BlackBerry Tablet OS	City Name = beijing		4
-OS Name = Unknown	City Name = beijing		137
-OS Name = Chrome OS	City Name = beijing		7
-OS Name = Unknown mobile	City Name = changsha		1
-OS Name = Symbian OS	City Name = changzhou		1
-OS Name = Chrome OS	City Name = chengdu		4
-OS Name = Sony Playstation	City Name = chongqing		2
-OS Name = Bada	City Name = guangzhou		1
-OS Name = Unknown mobile	City Name = haikou		2
-OS Name = Sony Playstation	City Name = beijing		64
-OS Name = BlackBerry Tablet OS	City Name = guangdong		3
-OS Name = Unknown mobile	City Name = guiyang		1
-OS Name = WebOS	City Name = handan		1
-OS Name = MeeGo	City Name = chengdu		2
-OS Name = Unknown	City Name = anhui		123
-OS Name = BlackBerry 7	City Name = chongqing		1
-OS Name = BlackBerry Tablet OS	City Name = beijing		1
-OS Name = Unknown mobile	City Name = daqing		5
-OS Name = BlackBerry Tablet OS	City Name = datong		5
-OS Name = Unknown mobile	City Name = beijing		2
-OS Name = Chrome OS	City Name = deyang		1
-OS Name = Unknown	City Name = aba		18
-OS Name = Bada	City Name = aomen		2
-OS Name = BlackBerry Tablet OS	City Name = beijing		1
-OS Name = Symbian OS	City Name = changsha		1
-OS Name = Unknown	City Name = chengdu		5
-OS Name = Sony Playstation	City Name = dali		4
-OS Name = Symbian OS	City Name = dongguan		2
-OS Name = Unknown mobile	City Name = guangdong		2
-OS Name = BlackBerryOS	City Name = guangzhou		1
-OS Name = Unknown mobile	City Name = changchun		7
-OS Name = BlackBerry Tablet OS	City Name = guangzhou		2
-OS Name = Unknown	City Name = bangbu		152
-OS Name = BlackBerry Tablet OS	City Name = anyang		5
-OS Name = Chrome OS	City Name = beijing		1
-OS Name = BlackBerry Tablet OS	City Name = dongguan		1
-OS Name = Sony Playstation	City Name = guilin		2
-OS Name = Symbian OS	City Name = haerbin		1
-OS Name = Symbian OS 9.x	City Name = hefei		1
-OS Name = Unknown mobile	City Name = hunan		2
-OS Name = Unknown	City Name = guangzhou		223
-OS Name = Symbian OS 9.x	City Name = huzhou		1
-OS Name = BlackBerry Tablet OS	City Name = huaihua		2
-OS Name = MeeGo	City Name = huhehaote		1
-OS Name = Chrome OS	City Name = jiangmen		2
-OS Name = BlackBerry 7	City Name = chongqing		2
-OS Name = Unknown mobile	City Name = jiangmen		3
-OS Name = Unknown mobile	City Name = beijing		294
-OS Name = Sony Playstation	City Name = fuzhou_124		1
-OS Name = Unknown	City Name = binzhou		234
-OS Name = MeeGo	City Name = jinhua		6
-OS Name = Symbian OS 9.x	City Name = lanzhou		1
-OS Name = Unknown	City Name = chaohu		178
-OS Name = BlackBerry 7	City Name = beijing		20
-OS Name = Unknown	City Name = guangzhou		118
-OS Name = Symbian OS 9.x	City Name = lanzhou		1
-OS Name = BlackBerry 7	City Name = kunming		2
-OS Name = Sony Playstation	City Name = liuzhou		2
-OS Name = WebOS	City Name = nanchang		1
-OS Name = MeeGo	City Name = nanjing		1
-OS Name = Unknown	City Name = haerbin		54
-OS Name = BlackBerry Tablet OS	City Name = unknown		251
-OS Name = Unknown	City Name = foshan		46
-OS Name = MeeGo	City Name = chengdu		3
-OS Name = Unknown	City Name = guangzhou		3
-OS Name = BlackBerry Tablet OS	City Name = jilin		3
-OS Name = Sony Playstation	City Name = nantong		1
-OS Name = Symbian OS	City Name = ningbo		2
-OS Name = Unknown	City Name = beijing		167
-OS Name = MeeGo	City Name = foshan		7
-OS Name = Unknown	City Name = beijing		156
-OS Name = MeeGo	City Name = dongguan		1
-OS Name = BlackBerry Tablet OS	City Name = guangzhou		1
-OS Name = MeeGo	City Name = kunming		3
-OS Name = Bada	City Name = lianyungang		1
-OS Name = BlackBerry Tablet OS	City Name = nanjing		2
-OS Name = Unknown	City Name = guangdong		53
-OS Name = MeeGo	City Name = shandong		3
-OS Name = BlackBerryOS	City Name = tianjin		1
-OS Name = BlackBerry Tablet OS	City Name = chengdu		132
-OS Name = Unknown mobile	City Name = beijing		2
-OS Name = Symbian OS 9.x	City Name = fuzhou_124		1
-OS Name = Sony Playstation	City Name = guangzhou		1
-OS Name = MeeGo	City Name = jinan		2
-OS Name = Symbian OS	City Name = liaoning		2
-OS Name = Sony Playstation	City Name = luoyang		1
-OS Name = Mac OS	City Name = nanjing		1
-OS Name = MeeGo	City Name = kunming		2
-OS Name = Symbian OS 9.x	City Name = shenyang		1
-OS Name = Sony Playstation	City Name = nanjing		2
-OS Name = Symbian OS 9.x	City Name = nanyang		2
-OS Name = MeeGo	City Name = kunming		8
-OS Name = Sony Playstation	City Name = shanghai		1
-OS Name = BlackBerry 6	City Name = shenzhen		1
-OS Name = MeeGo	City Name = suzhou_jiangsu		2
-OS Name = Unknown mobile	City Name = shenzhen		2
-OS Name = Unknown	City Name = suzhou_jiangsu		185
-OS Name = Symbian OS	City Name = huaihua		1
-OS Name = BlackBerry Tablet OS	City Name = luoyang		1
-OS Name = Unknown mobile	City Name = ningde		1
-OS Name = BlackBerry 7	City Name = suzhou_jiangsu		1
-OS Name = Sony Playstation	City Name = xian		1
-OS Name = Unknown mobile	City Name = shizuishan		1
-OS Name = Symbian OS	City Name = taiwan		1
-OS Name = Unknown	City Name = shijiazhuang		125
-OS Name = Sony Playstation	City Name = shaoyang		3
-OS Name = Unknown mobile	City Name = shenzhen		1
-OS Name = MeeGo	City Name = suzhou_jiangsu		1
-OS Name = Sony Playstation	City Name = taiwan		1
-OS Name = Unknown	City Name = guangzhou		13
-OS Name = Chrome OS	City Name = unknown		1
-OS Name = Unknown	City Name = changji		9
-OS Name = SunOS	City Name = unknown		3
-OS Name = Unknown	City Name = baoding		25
-OS Name = Chrome OS	City Name = unknown		1
-OS Name = Unknown	City Name = puer		91
-OS Name = BlackBerry Tablet OS	City Name = unknown		1
-OS Name = Unknown	City Name = guangzhou		82
-OS Name = Unknown mobile	City Name = wuhan		1
-OS Name = Symbian OS 9.x	City Name = guangzhou		1
-OS Name = Symbian OS	City Name = guiyang		1
-OS Name = Sony Playstation	City Name = hefei		1
-OS Name = Unknown	City Name = taizhou		172
-OS Name = Symbian OS 9.x	City Name = shenyang		1
-OS Name = Unknown mobile	City Name = shijiazhuang		1
-OS Name = BlackBerry 6	City Name = unknown		1
-OS Name = BlackBerry Tablet OS	City Name = wuhan		1
-OS Name = Sony Playstation	City Name = xian		1
-OS Name = Unknown mobile	City Name = dongguan		2
-OS Name = MeeGo	City Name = fuzhou_124		1
-OS Name = Unknown	City Name = wuhan		209
-OS Name = Symbian OS	City Name = kunming		1
-OS Name = BlackBerry Tablet OS	City Name = nanning		1
-OS Name = Unknown mobile	City Name = shenzhen		1
-OS Name = Symbian OS 9.x	City Name = shijiazhuang		1
-OS Name = MeeGo	City Name = suzhou_jiangsu		1
-OS Name = BlackBerry 7	City Name = taiyuan		3
-OS Name = Unknown	City Name = unknown		17
-OS Name = Unknown	City Name = beijing		120
-OS Name = BlackBerry Tablet OS	City Name = datong		1
-OS Name = Symbian OS	City Name = gansu		1
-OS Name = Symbian OS 9.x	City Name = guangdong		1
-OS Name = WebOS	City Name = hebei		1
-OS Name = MeeGo	City Name = shantou		2
-OS Name = Symbian OS	City Name = shenyang		1
-OS Name = Sony Playstation	City Name = shenzhen		1
-OS Name = Sony Ericsson	City Name = tianjin		1
-OS Name = Nintendo Wii	City Name = unknown		3
-OS Name = WebOS	City Name = wuhan		1
-OS Name = Unknown	City Name = shangqiu		51
-OS Name = MeeGo	City Name = guangzhou		64
-OS Name = Unknown	City Name = shenzhen		65
-OS Name = BlackBerryOS	City Name = guangzhou		1
-OS Name = Unknown	City Name = hangzhou		26
-OS Name = Sony Playstation	City Name = guangzhou		1
-OS Name = Unknown	City Name = zhengzhou		53
-OS Name = Unknown mobile	City Name = tianjin		1
-OS Name = Chrome OS	City Name = unknown		1
-OS Name = MeeGo	City Name = shantou		3
-OS Name = Unknown mobile	City Name = shenzhen		1
-OS Name = MeeGo	City Name = wuhan		1
-OS Name = Unknown	City Name = taiyuan		355
-OS Name = Symbian OS 9.x	City Name = shandong		2
-OS Name = MeeGo	City Name = guiyang		2
-OS Name = Unknown	City Name = shanghai		7
-OS Name = BlackBerry Tablet OS	City Name = ningbo		1
-OS Name = Unknown	City Name = mudanjiang		229
-OS Name = Chrome OS	City Name = shanghai		4
-OS Name = Sony Playstation	City Name = shijiazhuang		1
-OS Name = Unknown	City Name = guangzhou		7
-OS Name = Sony Playstation	City Name = haikou		1
-OS Name = Unknown	City Name = guangzhou		2
-OS Name = Sony Playstation	City Name = nanning		6
-OS Name = Unknown	City Name = guangzhou		2
-OS Name = Sony Playstation	City Name = haikou		1
-OS Name = Unknown	City Name = guangzhou		10
-OS Name = Symbian OS	City Name = hebi		1
-OS Name = MeeGo	City Name = hefei		1
-OS Name = Chrome OS	City Name = jinhua		1
-OS Name = WebOS	City Name = shenzhen		2
-OS Name = Unknown	City Name = sichuan		187
-OS Name = Symbian OS	City Name = nanchang		1
-OS Name = Unknown	City Name = nanchong		129
-OS Name = MeeGo	City Name = nanjing		1
-OS Name = Sony Playstation	City Name = shanghai		1
-OS Name = Chrome OS	City Name = suzhou_jiangsu		1
-OS Name = Unknown	City Name = beijing		199
-OS Name = Bada	City Name = taiwan		1
-OS Name = Unknown mobile	City Name = taiyuan		4
-OS Name = Unknown	City Name = liuzhou		43
-OS Name = Chrome OS	City Name = beijing		1
-OS Name = Unknown	City Name = nanjing		22
-OS Name = Symbian OS	City Name = changsha		1
-OS Name = Sony Playstation	City Name = foshan		1
-OS Name = Unknown	City Name = tianjin		3
-OS Name = BlackBerry Tablet OS	City Name = shandong		1
-OS Name = Unknown	City Name = tianjin		2
-OS Name = BlackBerry Tablet OS	City Name = jinan		1
-OS Name = Unknown	City Name = shenzhen		133
-OS Name = MeeGo	City Name = guangzhou		1
-OS Name = Unknown	City Name = zhongshan		99
-OS Name = Sony Playstation	City Name = guangzhou		1
-OS Name = Unknown	City Name = nanning		47
-OS Name = Unknown	City Name = shenzhen		3
-OS Name = Sony Playstation	City Name = guangzhou		2
-OS Name = Unknown	City Name = shantou		27
-OS Name = Sony Playstation	City Name = guangzhou		1
-OS Name = Unknown	City Name = huizhou		91
-OS Name = Unknown mobile	City Name = guangzhou		1
-OS Name = Unknown	City Name = shenzhen		82
-OS Name = Unknown	City Name = guangzhou		7
-OS Name = MeeGo	City Name = jiangmen		3
-OS Name = Unknown	City Name = nanning		2
-OS Name = Sony Playstation	City Name = shanghai		1
-OS Name = Unknown	City Name = shannxi		12
-OS Name = BlackBerry Tablet OS	City Name = shanghai		1
-OS Name = Unknown	City Name = shangluo		1
-OS Name = Sony Playstation	City Name = shanghai		1
-OS Name = BlackBerry 7	City Name = shenzhen		14
-OS Name = Unknown	City Name = mianyang		181
-OS Name = Unknown mobile	City Name = beijing		1
-OS Name = Unknown	City Name = hangzhou		41
-OS Name = Symbian OS	City Name = unknown		2
-OS Name = Symbian OS 9.x	City Name = hefei		1
-OS Name = Unknown	City Name = luohe		180
-OS Name = Symbian OS	City Name = tianjin		1
-OS Name = Chrome OS	City Name = unknown		2
-OS Name = Sony Playstation	City Name = xianggang		1
-OS Name = MeeGo	City Name = chengdu		1
-OS Name = Unknown mobile	City Name = hefei		1
-OS Name = Unknown	City Name = ganzhou		16
-OS Name = Sony Playstation	City Name = huaian		1
-OS Name = Unknown	City Name = weifang		82
-OS Name = Unknown mobile	City Name = shenzhen		2
-OS Name = Xbox OS	City Name = taiwan		1
-OS Name = Symbian OS	City Name = unknown		1
-OS Name = Sony Playstation	City Name = xian		1
-OS Name = Unknown	City Name = zhangjiakou		7
-OS Name = Unknown mobile	City Name = jiangmen		1
-OS Name = Unknown	City Name = unknown		63
-OS Name = BlackBerry Tablet OS	City Name = shanghai		1
-OS Name = Unknown	City Name = unknown		14
-OS Name = BlackBerry Tablet OS	City Name = shanghai		1
-OS Name = Unknown	City Name = shenzhen		23
-OS Name = Unknown mobile	City Name = shanghai		1
-OS Name = Unknown	City Name = zhongshan		47
-OS Name = Symbian OS 9.x	City Name = shijiazhuang		1
-OS Name = BlackBerry Tablet OS	City Name = shenzhen		3
-OS Name = Unknown	City Name = quzhou		325
-OS Name = Symbian OS	City Name = kunming		3
-OS Name = Chrome OS	City Name = nanjing		1
-OS Name = Sony Playstation	City Name = suzhou_jiangsu		1
-OS Name = BlackBerry Tablet OS	City Name = anyang		3
-OS Name = Unknown mobile	City Name = beijing		2
-OS Name = Unknown	City Name = ningbo		228
-OS Name = MeeGo	City Name = dongguan		1
-OS Name = Maemo	City Name = fuzhou_124		2
-OS Name = BlackBerryOS	City Name = guangzhou		5
-OS Name = MeeGo	City Name = haerbin		1
-OS Name = Unknown mobile	City Name = guiyang		8
-OS Name = MeeGo	City Name = langfang		1
-OS Name = Symbian OS 9.x	City Name = shenyang		4
-OS Name = BlackBerry Tablet OS	City Name = xingtai		2
-OS Name = Sony Playstation	City Name = mianyang		1
-OS Name = BlackBerry Tablet OS	City Name = beijing		4
-OS Name = Unknown	City Name = huangshan		200
-OS Name = MeeGo	City Name = hangzhou		1
-OS Name = WebOS	City Name = hebei		1
-OS Name = Sony Playstation	City Name = huzhou		1
-OS Name = BlackBerry 7	City Name = jiangsu		1
-OS Name = Unknown mobile	City Name = shenyang		1
-OS Name = Symbian OS 9.x	City Name = shijiazhuang		1
-OS Name = BlackBerry Tablet OS	City Name = suzhou_jiangsu		1
-OS Name = Unknown	City Name = huzhou		127
-OS Name = Unknown mobile	City Name = tianjin		1
-OS Name = BlackBerry Tablet OS	City Name = unknown		2
-OS Name = Unknown	City Name = taiyuan		209
-OS Name = Sony Playstation	City Name = guangdong		1
-OS Name = Unknown mobile	City Name = guangzhou		1
-OS Name = Sony Playstation	City Name = shanghai		1
-OS Name = BlackBerry Tablet OS	City Name = unknown		8
-OS Name = Sony Playstation	City Name = beijing		2
-OS Name = Sony Ericsson	City Name = guangdong		1
-OS Name = Symbian OS 9.x	City Name = hangzhou		1
-OS Name = Unknown	City Name = shanghai		115
-OS Name = BlackBerry Tablet OS	City Name = tianjin		3
-OS Name = Unknown	City Name = shanghai		1
-OS Name = BlackBerry Tablet OS	City Name = shenyang		2
-OS Name = BlackBerry Tablet OS	City Name = unknown		59
-OS Name = Unknown	City Name = jiangmen		154
-OS Name = BlackBerry Tablet OS	City Name = unknown		64
-OS Name = Unknown	City Name = zhuhai		1
-OS Name = BlackBerry 7	City Name = unknown		43
-OS Name = Unknown	City Name = dalian		322
-OS Name = MeeGo	City Name = beijing		1
-OS Name = Sony Playstation	City Name = enshishi		1
-OS Name = Unknown	City Name = guangdong		154
-OS Name = Symbian OS 9.x	City Name = fujian		1
-OS Name = MeeGo	City Name = guangdong		1
-OS Name = Symbian OS	City Name = beihai		7
-OS Name = MeeGo	City Name = beijing		3
-OS Name = MeeGo	City Name = beijing		4
-OS Name = Unknown	City Name = chongqing		179
-OS Name = BlackBerry Tablet OS	City Name = guilin		1
-OS Name = Sony Playstation	City Name = jilin_city		6
-OS Name = Unknown	City Name = huangshi		189
-OS Name = Nintendo Wii	City Name = linyi		1
-OS Name = Bada	City Name = shandong		1
-OS Name = Symbian OS 9.x	City Name = shanghai		1
-OS Name = MeeGo	City Name = shantou		2
-OS Name = Chrome OS	City Name = unknown		1
-OS Name = MeeGo	City Name = liuzhou		4
-OS Name = Sony Playstation	City Name = nanjing		1
-OS Name = Symbian OS	City Name = shenyang		4
-OS Name = BlackBerry Tablet OS	City Name = deyang		11
-OS Name = PalmOS	City Name = dongguan		1
-OS Name = MeeGo	City Name = foshan		1
-OS Name = BlackBerryOS	City Name = guangzhou		1
-OS Name = Maemo	City Name = hengyang		1
-OS Name = Sony Playstation	City Name = ningbo		1
-OS Name = Symbian OS 9.x	City Name = shandong		1
-OS Name = Unknown	City Name = shanghai		135
-OS Name = Sony Playstation	City Name = ningbo		4
-OS Name = Unknown mobile	City Name = beijing		2
-OS Name = Sony Playstation	City Name = ningbo		1
-OS Name = Unknown	City Name = lanzhou		156
-OS Name = MeeGo	City Name = qingdao		4
-OS Name = Symbian OS 9.x	City Name = nanning		2
-OS Name = BlackBerry Tablet OS	City Name = shijiazhuang		2
-OS Name = Chrome OS	City Name = taiyuan		3
-OS Name = Unknown	City Name = shanghai		170
-OS Name = BlackBerry Tablet OS	City Name = tianjin		10
-OS Name = Unknown mobile	City Name = liaoning		13
-OS Name = Symbian OS	City Name = ningbo		1
-OS Name = SunOS	City Name = shanghai		1
-OS Name = BlackBerry Tablet OS	City Name = jiaxing		4
-OS Name = Maemo	City Name = taizhou_jiangsu		3
-OS Name = Symbian OS 9.x	City Name = weihai		1
-OS Name = Symbian OS 9.x	City Name = wuhan		3
-OS Name = Unknown	City Name = beijing		219
-OS Name = BlackBerry Tablet OS	City Name = chengdu		1
-OS Name = Symbian OS 9.x	City Name = shanghai		2
-OS Name = Sony Playstation	City Name = guangzhou		1
-OS Name = MeeGo	City Name = sichuan		5
-OS Name = Symbian OS 9.x	City Name = huizhou		1
-OS Name = Unknown mobile	City Name = liaoning		1
-OS Name = Sony Playstation	City Name = shanghai		3
-OS Name = Unknown mobile	City Name = taiwan		1
-OS Name = BlackBerry Tablet OS	City Name = unknown		8
-OS Name = Unknown mobile	City Name = wenshan		3
-OS Name = BlackBerry Tablet OS	City Name = wuhan		1
-OS Name = Maemo	City Name = shaoguan		2
-OS Name = Unknown	City Name = foshan		61
-OS Name = BlackBerryOS	City Name = tianjin		1
-OS Name = Symbian OS	City Name = unknown		1
-OS Name = Maemo	City Name = wulumuqi		3
-OS Name = BlackBerry Tablet OS	City Name = weifang		2
-OS Name = Maemo	City Name = wulumuqi		2
-OS Name = Sony Playstation	City Name = haerbin		1
-OS Name = Unknown mobile	City Name = hangzhou		1
-OS Name = Maemo	City Name = ningbo		1
-OS Name = Symbian OS	City Name = qingdao		1
-OS Name = Sony Playstation	City Name = suzhou_jiangsu		2
-OS Name = BlackBerry Tablet OS	City Name = tianjin		2
-OS Name = Unknown mobile	City Name = unknown		1
-OS Name = Sony Playstation	City Name = weifang		303
-OS Name = Unknown mobile	City Name = wuhan		1
-OS Name = BlackBerry Tablet OS	City Name = shijiazhuang		2
-OS Name = Bada	City Name = taiwan		1
-OS Name = Chrome OS	City Name = unknown		4
-OS Name = Unknown mobile	City Name = shijiazhuang		4
-OS Name = BlackBerry Tablet OS	City Name = sichuan		2
-OS Name = Chrome OS	City Name = unknown		1
-OS Name = BlackBerryOS	City Name = wuxi		1
-OS Name = Unknown	City Name = shanghai		243
-OS Name = Symbian OS 9.x	City Name = fuzhou_124		1
-OS Name = Unknown mobile	City Name = nanjing		2
-OS Name = MeeGo	City Name = qingdao		1
-OS Name = BlackBerry 7	City Name = shenzhen		1
-OS Name = Symbian OS	City Name = taiwan		1
-OS Name = Symbian OS	City Name = unknown		4
-OS Name = BlackBerry Tablet OS	City Name = lishui		2
-OS Name = BlackBerry 6	City Name = unknown		3
-OS Name = Symbian OS 9.x	City Name = wenzhou		1
-OS Name = Maemo	City Name = unknown		1
-OS Name = Unknown	City Name = beijing		118
-OS Name = BlackBerryOS	City Name = xian		1
-OS Name = MeeGo	City Name = nanning		1
-OS Name = Sony Playstation	City Name = dalian		3
-OS Name = Symbian OS 9.x	City Name = hangzhou		1
-OS Name = Unknown	City Name = suqian		183
-OS Name = Unknown mobile	City Name = unknown		2
-OS Name = Unknown	City Name = langfang		211
-OS Name = Sony Playstation	City Name = nanjing		1
-OS Name = Maemo	City Name = taizhou		1
-OS Name = BlackBerry Tablet OS	City Name = shijiazhuang		4
-OS Name = Unknown mobile	City Name = zhengzhou		2
-OS Name = MeeGo	City Name = xian		1
-OS Name = Unknown	City Name = unknown		22
-OS Name = MeeGo	City Name = shanghai		1
-OS Name = Unknown	City Name = xiamen		21
-OS Name = Unknown mobile	City Name = shenzhen		1
-OS Name = Sony Playstation	City Name = quanzhou		2
-OS Name = Bada	City Name = shijiazhuang		1
-OS Name = Unknown mobile	City Name = nanjing		2
-OS Name = Sony Playstation	City Name = tonghua		1
-OS Name = Unknown	City Name = unknown		250
-OS Name = Unknown mobile	City Name = zibo		1
-OS Name = Unknown	City Name = wuxi		141
-OS Name = BlackBerry 6	City Name = unknown		1
-OS Name = Unknown	City Name = xian		120
-OS Name = Unknown	City Name = beijing		18
-OS Name = MeeGo	City Name = guangdong		1
-OS Name = BlackBerry Tablet OS	City Name = guangxi		1
-OS Name = BlackBerryOS	City Name = guangdong		3
-OS Name = Symbian OS	City Name = shijiazhuang		6
-OS Name = Unknown	City Name = dandong		121
-OS Name = Sony Playstation	City Name = lanzhou		1
-OS Name = MeeGo	City Name = wuhan		1
-OS Name = BlackBerryOS	City Name = xian		1
-OS Name = Symbian OS	City Name = xiangfan		2
-OS Name = Unknown mobile	City Name = xianggang		1
-OS Name = Unknown	City Name = foshan		235
-OS Name = MeeGo	City Name = yangzhou		1
-OS Name = Unknown mobile	City Name = yancheng		1
-OS Name = Symbian OS	City Name = yantai		1
-OS Name = Sony Playstation	City Name = yibin		3
-OS Name = MeeGo	City Name = zhuhai		1
-OS Name = Unknown	City Name = beijing		173
-OS Name = MeeGo	City Name = guangzhou		1
-OS Name = Unknown	City Name = xiamen		163
-OS Name = MeeGo	City Name = shenyang		1
-OS Name = BlackBerry Tablet OS	City Name = unknown		3
-OS Name = Symbian OS	City Name = ganzhou		1
-OS Name = BlackBerry Tablet OS	City Name = unknown		1
-OS Name = MeeGo	City Name = guangdong		4
-OS Name = Symbian OS	City Name = huizhou		1
-OS Name = Symbian OS	City Name = unknown		5
-OS Name = Unknown	City Name = unknown		125
-OS Name = MeeGo	City Name = wenzhou		3
-OS Name = BlackBerry Tablet OS	City Name = wuhan		2
-OS Name = WebOS	City Name = xian		1
-OS Name = BlackBerry Tablet OS	City Name = yingtan		3
-OS Name = MeeGo	City Name = zhanjiang		1
-OS Name = Unknown	City Name = xuzhou		161
-OS Name = BlackBerryOS	City Name = beijing		1
-OS Name = Unknown	City Name = lianyungang		32
-OS Name = BlackBerry Tablet OS	City Name = lvliang		1
-OS Name = Sony Playstation	City Name = guangzhou		2
-OS Name = BlackBerry Tablet OS	City Name = shanghai		1
-OS Name = Symbian OS	City Name = tianjin		1
-OS Name = Chrome OS	City Name = unknown		1
-OS Name = Sony Playstation	City Name = nanjing		2
-OS Name = Unknown mobile	City Name = xiamen		1
-OS Name = Unknown	City Name = zunyi		166
-OS Name = Mac OS	City Name = beihai		1
-OS Name = MeeGo	City Name = hefei		1
-OS Name = Sony Playstation	City Name = ningbo		2
-OS Name = MeeGo	City Name = nanchang		2
-OS Name = BlackBerry Tablet OS	City Name = taiwan		1
-OS Name = Chrome OS	City Name = unknown		1
-OS Name = Unknown mobile	City Name = chengdu		2
-OS Name = Unknown	City Name = zhaoqing		44
-OS Name = BlackBerry Tablet OS	City Name = unknown		1
-OS Name = Unknown	City Name = xian		82
-OS Name = Unknown mobile	City Name = unknown		1
-OS Name = Unknown	City Name = wuxi		229
-OS Name = BlackBerry 7	City Name = chongqing		1
-OS Name = Maemo	City Name = shenyang		2
-OS Name = MeeGo	City Name = guangxi		6
-OS Name = BlackBerry Tablet OS	City Name = jiangsu		1
-OS Name = Symbian OS 9.x	City Name = shijiazhuang		1
-OS Name = MeeGo	City Name = taizhou		1
-OS Name = BlackBerry Tablet OS	City Name = unknown		2
-OS Name = Symbian OS	City Name = xianggang		2
-OS Name = Unknown mobile	City Name = xuchang		1
-OS Name = MeeGo	City Name = yangjiang		1
-OS Name = Maemo	City Name = zhangjiakou		1
-OS Name = Unknown mobile	City Name = zhengzhou		1
-OS Name = Sony Playstation	City Name = wuxi		6
-OS Name = BlackBerry Tablet OS	City Name = shanghai		7
-OS Name = Unknown	City Name = guangzhou		133
-OS Name = BlackBerry Tablet OS	City Name = zhongshan		1
-OS Name = Unknown	City Name = zhuhai		408
-OS Name = Unknown mobile	City Name = unknown		1
-OS Name = Unknown	City Name = zhuhai		110
-OS Name = Bada	City Name = xianggang		1
-OS Name = Unknown mobile	City Name = xuzhou		1
-OS Name = Maemo	City Name = zunyi		1
+OS Name = Unknown       City Name = aba Amount event per city =         2
+OS Name = Unknown       City Name = alashan     Amount event per city =         3
+OS Name = Unknown       City Name = aletai      Amount event per city =         2
+OS Name = BlackBerry Tablet OS  City Name = anhui       Amount event per city =         1
+OS Name = Unknown       City Name = anhui       Amount event per city =         32
+OS Name = Unknown       City Name = ankang      Amount event per city =         8
+OS Name = Unknown       City Name = anqing      Amount event per city =         15
+OS Name = Unknown       City Name = anshan      Amount event per city =         10
+OS Name = Unknown       City Name = anshun      Amount event per city =         5
+OS Name = BlackBerry Tablet OS  City Name = anyang      Amount event per city =         4
+OS Name = Unknown       City Name = anyang      Amount event per city =         14
+OS Name = Bada  City Name = aomen       Amount event per city =         2
+OS Name = Unknown       City Name = baicheng    Amount event per city =         4
+OS Name = Unknown       City Name = baise       Amount event per city =         12
+OS Name = Unknown mobile        City Name = baise       Amount event per city =         1
+OS Name = Unknown       City Name = baishan     Amount event per city =         3
+OS Name = Unknown       City Name = baiyin      Amount event per city =         4
+OS Name = Unknown       City Name = bangbu      Amount event per city =         9
+OS Name = Unknown       City Name = baoding     Amount event per city =         31
+OS Name = Unknown       City Name = baoji       Amount event per city =         11
+OS Name = Unknown       City Name = baoshan     Amount event per city =         3
+OS Name = Unknown       City Name = baotou      Amount event per city =         13
+OS Name = Unknown       City Name = bayannaoer  Amount event per city =         6
+OS Name = BlackBerry Tablet OS  City Name = bayinguoleng        Amount event per city =         1
+OS Name = Unknown       City Name = bayinguoleng        Amount event per city =         9
+OS Name = Unknown       City Name = bazhong     Amount event per city =         7
+OS Name = Symbian OS    City Name = beihai      Amount event per city =         1
+OS Name = Unknown       City Name = beihai      Amount event per city =         5
+OS Name = BlackBerry 7  City Name = beijing     Amount event per city =         4
+OS Name = BlackBerry Tablet OS  City Name = beijing     Amount event per city =         20
+OS Name = BlackBerryOS  City Name = beijing     Amount event per city =         4
+OS Name = Chrome OS     City Name = beijing     Amount event per city =         4
+OS Name = Maemo City Name = beijing     Amount event per city =         1
+OS Name = MeeGo City Name = beijing     Amount event per city =         20
+OS Name = Sony Playstation      City Name = beijing     Amount event per city =         6
+OS Name = Symbian OS    City Name = beijing     Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = beijing     Amount event per city =         3
+OS Name = Unknown       City Name = beijing     Amount event per city =         2133
+OS Name = Unknown mobile        City Name = beijing     Amount event per city =         8
+OS Name = Unknown       City Name = benxi       Amount event per city =         5
+OS Name = Unknown       City Name = bijie       Amount event per city =         10
+OS Name = Unknown       City Name = binzhou     Amount event per city =         17
+OS Name = Unknown       City Name = boertala    Amount event per city =         2
+OS Name = Unknown       City Name = bozhou      Amount event per city =         7
+OS Name = Unknown       City Name = cangzhou    Amount event per city =         16
+OS Name = Unknown       City Name = changchun   Amount event per city =         54
+OS Name = Unknown mobile        City Name = changchun   Amount event per city =         1
+OS Name = Unknown       City Name = changde     Amount event per city =         8
+OS Name = Unknown       City Name = changji     Amount event per city =         8
+OS Name = Symbian OS    City Name = changsha    Amount event per city =         2
+OS Name = Unknown       City Name = changsha    Amount event per city =         104
+OS Name = Unknown mobile        City Name = changsha    Amount event per city =         1
+OS Name = MeeGo City Name = changzhi    Amount event per city =         1
+OS Name = Unknown       City Name = changzhi    Amount event per city =         10
+OS Name = Symbian OS    City Name = changzhou   Amount event per city =         1
+OS Name = Unknown       City Name = changzhou   Amount event per city =         37
+OS Name = Symbian OS    City Name = chaohu      Amount event per city =         3
+OS Name = Unknown       City Name = chaohu      Amount event per city =         8
+OS Name = Unknown       City Name = chaoyang    Amount event per city =         2
+OS Name = Unknown       City Name = chaozhou    Amount event per city =         11
+OS Name = Unknown       City Name = chengde     Amount event per city =         8
+OS Name = BlackBerry Tablet OS  City Name = chengdu     Amount event per city =         6
+OS Name = Chrome OS     City Name = chengdu     Amount event per city =         2
+OS Name = MeeGo City Name = chengdu     Amount event per city =         6
+OS Name = Sony Playstation      City Name = chengdu     Amount event per city =         1
+OS Name = Symbian OS    City Name = chengdu     Amount event per city =         2
+OS Name = Unknown       City Name = chengdu     Amount event per city =         131
+OS Name = Unknown mobile        City Name = chengdu     Amount event per city =         2
+OS Name = Unknown       City Name = chenzhou    Amount event per city =         10
+OS Name = Unknown       City Name = chifeng     Amount event per city =         12
+OS Name = Unknown       City Name = chizhou     Amount event per city =         1
+OS Name = BlackBerry 7  City Name = chongqing   Amount event per city =         3
+OS Name = MeeGo City Name = chongqing   Amount event per city =         6
+OS Name = Sony Playstation      City Name = chongqing   Amount event per city =         1
+OS Name = Unknown       City Name = chongqing   Amount event per city =         192
+OS Name = Unknown       City Name = chuxiong    Amount event per city =         6
+OS Name = Unknown       City Name = chuzhou     Amount event per city =         13
+OS Name = Sony Playstation      City Name = dali        Amount event per city =         2
+OS Name = Unknown       City Name = dali        Amount event per city =         6
+OS Name = Sony Playstation      City Name = dalian      Amount event per city =         1
+OS Name = Unknown       City Name = dalian      Amount event per city =         32
+OS Name = Unknown       City Name = dandong     Amount event per city =         5
+OS Name = Unknown       City Name = daqing      Amount event per city =         67
+OS Name = Unknown mobile        City Name = daqing      Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = datong      Amount event per city =         3
+OS Name = Unknown       City Name = datong      Amount event per city =         15
+OS Name = Unknown       City Name = daxinganling        Amount event per city =         4
+OS Name = Unknown       City Name = dazhou      Amount event per city =         8
+OS Name = Unknown       City Name = dehong      Amount event per city =         4
+OS Name = BlackBerry Tablet OS  City Name = deyang      Amount event per city =         1
+OS Name = Chrome OS     City Name = deyang      Amount event per city =         1
+OS Name = Unknown       City Name = deyang      Amount event per city =         20
+OS Name = BlackBerry Tablet OS  City Name = dezhou      Amount event per city =         1
+OS Name = Unknown       City Name = dezhou      Amount event per city =         8
+OS Name = Unknown       City Name = dingxi      Amount event per city =         2
+OS Name = BlackBerry Tablet OS  City Name = dongguan    Amount event per city =         1
+OS Name = MeeGo City Name = dongguan    Amount event per city =         3
+OS Name = Nintendo Wii  City Name = dongguan    Amount event per city =         1
+OS Name = PalmOS        City Name = dongguan    Amount event per city =         1
+OS Name = Symbian OS    City Name = dongguan    Amount event per city =         1
+OS Name = Unknown       City Name = dongguan    Amount event per city =         131
+OS Name = Unknown mobile        City Name = dongguan    Amount event per city =         1
+OS Name = Unknown       City Name = dongying    Amount event per city =         18
+OS Name = Unknown       City Name = eerduosi    Amount event per city =         12
+OS Name = Sony Playstation      City Name = enshishi    Amount event per city =         1
+OS Name = Unknown       City Name = enshishi    Amount event per city =         8
+OS Name = Unknown       City Name = ezhou       Amount event per city =         4
+OS Name = Unknown       City Name = fangchenggang       Amount event per city =         4
+OS Name = BlackBerry Tablet OS  City Name = foshan      Amount event per city =         1
+OS Name = MeeGo City Name = foshan      Amount event per city =         4
+OS Name = Sony Playstation      City Name = foshan      Amount event per city =         1
+OS Name = Unknown       City Name = foshan      Amount event per city =         92
+OS Name = Unknown mobile        City Name = foshan      Amount event per city =         1
+OS Name = MeeGo City Name = fujian      Amount event per city =         3
+OS Name = Symbian OS 9.x        City Name = fujian      Amount event per city =         1
+OS Name = Unknown       City Name = fujian      Amount event per city =         11
+OS Name = Unknown       City Name = fushun      Amount event per city =         16
+OS Name = Unknown       City Name = fuyang      Amount event per city =         15
+OS Name = BlackBerry Tablet OS  City Name = fuzhou_124  Amount event per city =         1
+OS Name = Maemo City Name = fuzhou_124  Amount event per city =         2
+OS Name = MeeGo City Name = fuzhou_124  Amount event per city =         1
+OS Name = Sony Playstation      City Name = fuzhou_124  Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = fuzhou_124  Amount event per city =         3
+OS Name = Unknown       City Name = fuzhou_124  Amount event per city =         52
+OS Name = Unknown mobile        City Name = fuzhou_124  Amount event per city =         1
+OS Name = Unknown       City Name = fuzhou_134  Amount event per city =         4
+OS Name = Unknown       City Name = gannan      Amount event per city =         2
+OS Name = Symbian OS    City Name = gansu       Amount event per city =         1
+OS Name = Unknown       City Name = gansu       Amount event per city =         6
+OS Name = Symbian OS    City Name = ganzhou     Amount event per city =         1
+OS Name = Unknown       City Name = ganzhou     Amount event per city =         26
+OS Name = Unknown       City Name = ganzi       Amount event per city =         1
+OS Name = Unknown       City Name = guangan     Amount event per city =         8
+OS Name = BlackBerry Tablet OS  City Name = guangdong   Amount event per city =         2
+OS Name = BlackBerryOS  City Name = guangdong   Amount event per city =         1
+OS Name = MeeGo City Name = guangdong   Amount event per city =         5
+OS Name = Sony Ericsson City Name = guangdong   Amount event per city =         1
+OS Name = Sony Playstation      City Name = guangdong   Amount event per city =         2
+OS Name = Symbian OS    City Name = guangdong   Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = guangdong   Amount event per city =         1
+OS Name = Unknown       City Name = guangdong   Amount event per city =         170
+OS Name = Unknown mobile        City Name = guangdong   Amount event per city =         2
+OS Name = BlackBerry Tablet OS  City Name = guangxi     Amount event per city =         1
+OS Name = MeeGo City Name = guangxi     Amount event per city =         4
+OS Name = Unknown       City Name = guangxi     Amount event per city =         17
+OS Name = Unknown       City Name = guangyuan   Amount event per city =         12
+OS Name = Bada  City Name = guangzhou   Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = guangzhou   Amount event per city =         3
+OS Name = BlackBerryOS  City Name = guangzhou   Amount event per city =         10
+OS Name = MeeGo City Name = guangzhou   Amount event per city =         3
+OS Name = Sony Playstation      City Name = guangzhou   Amount event per city =         13
+OS Name = Symbian OS    City Name = guangzhou   Amount event per city =         3
+OS Name = Symbian OS 9.x        City Name = guangzhou   Amount event per city =         1
+OS Name = Unknown       City Name = guangzhou   Amount event per city =         940
+OS Name = Unknown mobile        City Name = guangzhou   Amount event per city =         4
+OS Name = WebOS City Name = guangzhou   Amount event per city =         1
+OS Name = Unknown       City Name = guigang     Amount event per city =         12
+OS Name = BlackBerry Tablet OS  City Name = guilin      Amount event per city =         1
+OS Name = Sony Playstation      City Name = guilin      Amount event per city =         2
+OS Name = Unknown       City Name = guilin      Amount event per city =         141
+OS Name = MeeGo City Name = guiyang     Amount event per city =         1
+OS Name = Symbian OS    City Name = guiyang     Amount event per city =         1
+OS Name = Unknown       City Name = guiyang     Amount event per city =         45
+OS Name = Unknown mobile        City Name = guiyang     Amount event per city =         4
+OS Name = MeeGo City Name = guizhou     Amount event per city =         1
+OS Name = Unknown       City Name = guizhou     Amount event per city =         5
+OS Name = Unknown       City Name = guyuan      Amount event per city =         2
+OS Name = MeeGo City Name = haerbin     Amount event per city =         1
+OS Name = Sony Playstation      City Name = haerbin     Amount event per city =         1
+OS Name = Symbian OS    City Name = haerbin     Amount event per city =         1
+OS Name = Unknown       City Name = haerbin     Amount event per city =         97
+OS Name = Unknown mobile        City Name = haerbin     Amount event per city =         1
+OS Name = BlackBerry 7  City Name = haikou      Amount event per city =         1
+OS Name = MeeGo City Name = haikou      Amount event per city =         1
+OS Name = Sony Playstation      City Name = haikou      Amount event per city =         3
+OS Name = Symbian OS    City Name = haikou      Amount event per city =         3
+OS Name = Unknown       City Name = haikou      Amount event per city =         35
+OS Name = Unknown mobile        City Name = haikou      Amount event per city =         2
+OS Name = Unknown       City Name = hainan      Amount event per city =         2
+OS Name = Unknown       City Name = hami        Amount event per city =         4
+OS Name = Unknown       City Name = handan      Amount event per city =         34
+OS Name = WebOS City Name = handan      Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = hangzhou    Amount event per city =         1
+OS Name = Maemo City Name = hangzhou    Amount event per city =         1
+OS Name = MeeGo City Name = hangzhou    Amount event per city =         4
+OS Name = Symbian OS 9.x        City Name = hangzhou    Amount event per city =         2
+OS Name = Unknown       City Name = hangzhou    Amount event per city =         127
+OS Name = Unknown mobile        City Name = hangzhou    Amount event per city =         4
+OS Name = Unknown       City Name = hanzhong    Amount event per city =         7
+OS Name = Unknown       City Name = hebei       Amount event per city =         19
+OS Name = WebOS City Name = hebei       Amount event per city =         2
+OS Name = Symbian OS    City Name = hebi        Amount event per city =         1
+OS Name = Unknown       City Name = hebi        Amount event per city =         8
+OS Name = Unknown       City Name = hechi       Amount event per city =         5
+OS Name = MeeGo City Name = hefei       Amount event per city =         3
+OS Name = Sony Playstation      City Name = hefei       Amount event per city =         2
+OS Name = Symbian OS 9.x        City Name = hefei       Amount event per city =         2
+OS Name = Unknown       City Name = hefei       Amount event per city =         54
+OS Name = Unknown mobile        City Name = hefei       Amount event per city =         1
+OS Name = Unknown       City Name = heihe       Amount event per city =         3
+OS Name = Unknown       City Name = heilongjiang        Amount event per city =         17
+OS Name = Unknown       City Name = henan       Amount event per city =         21
+OS Name = Unknown       City Name = hengshui    Amount event per city =         11
+OS Name = Maemo City Name = hengyang    Amount event per city =         2
+OS Name = Unknown       City Name = hengyang    Amount event per city =         17
+OS Name = Unknown       City Name = hetian      Amount event per city =         2
+OS Name = Unknown       City Name = heyuan      Amount event per city =         9
+OS Name = Unknown       City Name = heze        Amount event per city =         11
+OS Name = Unknown       City Name = hezhou      Amount event per city =         4
+OS Name = Unknown       City Name = honghe      Amount event per city =         12
+OS Name = Sony Playstation      City Name = huaian      Amount event per city =         1
+OS Name = Unknown       City Name = huaian      Amount event per city =         20
+OS Name = Unknown       City Name = huaibei     Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = huaihua     Amount event per city =         1
+OS Name = Symbian OS    City Name = huaihua     Amount event per city =         1
+OS Name = Unknown       City Name = huaihua     Amount event per city =         6
+OS Name = Unknown       City Name = huainan     Amount event per city =         7
+OS Name = Unknown       City Name = huanggang   Amount event per city =         12
+OS Name = Unknown       City Name = huangshan   Amount event per city =         4
+OS Name = Unknown       City Name = huangshi    Amount event per city =         8
+OS Name = BlackBerry Tablet OS  City Name = hubei       Amount event per city =         1
+OS Name = Unknown       City Name = hubei       Amount event per city =         19
+OS Name = MeeGo City Name = huhehaote   Amount event per city =         1
+OS Name = Unknown       City Name = huhehaote   Amount event per city =         48
+OS Name = Unknown mobile        City Name = huhehaote   Amount event per city =         1
+OS Name = MeeGo City Name = huizhou     Amount event per city =         1
+OS Name = Symbian OS    City Name = huizhou     Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = huizhou     Amount event per city =         1
+OS Name = Unknown       City Name = huizhou     Amount event per city =         61
+OS Name = Unknown       City Name = huludao     Amount event per city =         10
+OS Name = Unknown       City Name = hulunbeier  Amount event per city =         12
+OS Name = Unknown       City Name = hunan       Amount event per city =         7
+OS Name = Unknown mobile        City Name = hunan       Amount event per city =         1
+OS Name = Sony Playstation      City Name = huzhou      Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = huzhou      Amount event per city =         1
+OS Name = Unknown       City Name = huzhou      Amount event per city =         37
+OS Name = Unknown       City Name = jiamusi     Amount event per city =         18
+OS Name = Unknown mobile        City Name = jiamusi     Amount event per city =         1
+OS Name = Unknown       City Name = jian        Amount event per city =         12
+OS Name = BlackBerry Tablet OS  City Name = jiangmen    Amount event per city =         1
+OS Name = Chrome OS     City Name = jiangmen    Amount event per city =         2
+OS Name = MeeGo City Name = jiangmen    Amount event per city =         1
+OS Name = Sony Playstation      City Name = jiangmen    Amount event per city =         1
+OS Name = Unknown       City Name = jiangmen    Amount event per city =         41
+OS Name = Unknown mobile        City Name = jiangmen    Amount event per city =         3
+OS Name = BlackBerry 7  City Name = jiangsu     Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = jiangsu     Amount event per city =         3
+OS Name = MeeGo City Name = jiangsu     Amount event per city =         1
+OS Name = Sony Playstation      City Name = jiangsu     Amount event per city =         1
+OS Name = Unknown       City Name = jiangsu     Amount event per city =         24
+OS Name = Unknown       City Name = jiangxi     Amount event per city =         11
+OS Name = Unknown       City Name = jiaozuo     Amount event per city =         26
+OS Name = BlackBerry Tablet OS  City Name = jiaxing     Amount event per city =         1
+OS Name = Unknown       City Name = jiaxing     Amount event per city =         34
+OS Name = Unknown       City Name = jiayuguan   Amount event per city =         1
+OS Name = Unknown       City Name = jieyang     Amount event per city =         23
+OS Name = BlackBerry Tablet OS  City Name = jilin       Amount event per city =         1
+OS Name = MeeGo City Name = jilin       Amount event per city =         1
+OS Name = Unknown       City Name = jilin       Amount event per city =         7
+OS Name = Sony Playstation      City Name = jilin_city  Amount event per city =         1
+OS Name = Unknown       City Name = jilin_city  Amount event per city =         21
+OS Name = BlackBerry 7  City Name = jinan       Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = jinan       Amount event per city =         1
+OS Name = MeeGo City Name = jinan       Amount event per city =         1
+OS Name = Sony Playstation      City Name = jinan       Amount event per city =         2
+OS Name = Symbian OS    City Name = jinan       Amount event per city =         1
+OS Name = Unknown       City Name = jinan       Amount event per city =         69
+OS Name = Unknown       City Name = jinchang    Amount event per city =         2
+OS Name = Unknown       City Name = jincheng    Amount event per city =         4
+OS Name = Unknown       City Name = jingdezhen  Amount event per city =         4
+OS Name = Unknown       City Name = jingmen     Amount event per city =         10
+OS Name = Unknown       City Name = jingzhou    Amount event per city =         13
+OS Name = Chrome OS     City Name = jinhua      Amount event per city =         1
+OS Name = MeeGo City Name = jinhua      Amount event per city =         1
+OS Name = Sony Playstation      City Name = jinhua      Amount event per city =         1
+OS Name = Unknown       City Name = jinhua      Amount event per city =         30
+OS Name = Unknown       City Name = jining      Amount event per city =         23
+OS Name = Unknown       City Name = jinzhongshi Amount event per city =         22
+OS Name = Unknown       City Name = jinzhou     Amount event per city =         11
+OS Name = Unknown mobile        City Name = jinzhou     Amount event per city =         1
+OS Name = Unknown       City Name = jiujiang    Amount event per city =         12
+OS Name = Unknown       City Name = jiuquan     Amount event per city =         6
+OS Name = Unknown       City Name = jixi        Amount event per city =         6
+OS Name = Unknown       City Name = kaifeng     Amount event per city =         10
+OS Name = Unknown       City Name = kashi       Amount event per city =         3
+OS Name = Unknown       City Name = kezilesukeerkezi    Amount event per city =         1
+OS Name = BlackBerry 7  City Name = kunming     Amount event per city =         1
+OS Name = MeeGo City Name = kunming     Amount event per city =         8
+OS Name = Sony Playstation      City Name = kunming     Amount event per city =         1
+OS Name = Symbian OS    City Name = kunming     Amount event per city =         4
+OS Name = Unknown       City Name = kunming     Amount event per city =         65
+OS Name = Unknown       City Name = laibin      Amount event per city =         2
+OS Name = Unknown       City Name = laiwu       Amount event per city =         5
+OS Name = MeeGo City Name = langfang    Amount event per city =         1
+OS Name = Unknown       City Name = langfang    Amount event per city =         23
+OS Name = MeeGo City Name = lanzhou     Amount event per city =         3
+OS Name = Sony Playstation      City Name = lanzhou     Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = lanzhou     Amount event per city =         2
+OS Name = Unknown       City Name = lanzhou     Amount event per city =         16
+OS Name = Unknown       City Name = lasa        Amount event per city =         3
+OS Name = Unknown       City Name = leshan      Amount event per city =         9
+OS Name = Unknown       City Name = liangshan   Amount event per city =         3
+OS Name = Bada  City Name = lianyungang Amount event per city =         1
+OS Name = Unknown       City Name = lianyungang Amount event per city =         17
+OS Name = MeeGo City Name = liaocheng   Amount event per city =         1
+OS Name = Unknown       City Name = liaocheng   Amount event per city =         11
+OS Name = Symbian OS    City Name = liaoning    Amount event per city =         1
+OS Name = Unknown       City Name = liaoning    Amount event per city =         6
+OS Name = Unknown mobile        City Name = liaoning    Amount event per city =         3
+OS Name = MeeGo City Name = liaoyang    Amount event per city =         1
+OS Name = Unknown       City Name = liaoyang    Amount event per city =         8
+OS Name = Unknown mobile        City Name = liaoyang    Amount event per city =         1
+OS Name = Unknown       City Name = liaoyuan    Amount event per city =         1
+OS Name = Unknown       City Name = lijiang     Amount event per city =         3
+OS Name = Unknown       City Name = lincang     Amount event per city =         5
+OS Name = Unknown       City Name = linfen      Amount event per city =         42
+OS Name = Unknown       City Name = linxia      Amount event per city =         2
+OS Name = Nintendo Wii  City Name = linyi       Amount event per city =         1
+OS Name = Unknown       City Name = linyi       Amount event per city =         47
+OS Name = BlackBerry Tablet OS  City Name = lishui      Amount event per city =         1
+OS Name = Unknown       City Name = lishui      Amount event per city =         6
+OS Name = Unknown       City Name = liuan       Amount event per city =         12
+OS Name = Maemo City Name = liupanshui  Amount event per city =         1
+OS Name = Unknown       City Name = liupanshui  Amount event per city =         6
+OS Name = MeeGo City Name = liuzhou     Amount event per city =         3
+OS Name = Sony Playstation      City Name = liuzhou     Amount event per city =         1
+OS Name = Symbian OS    City Name = liuzhou     Amount event per city =         1
+OS Name = Unknown       City Name = liuzhou     Amount event per city =         28
+OS Name = Unknown mobile        City Name = liuzhou     Amount event per city =         1
+OS Name = Unknown       City Name = longnan     Amount event per city =         1
+OS Name = Unknown       City Name = longyan     Amount event per city =         5
+OS Name = Unknown       City Name = loudi       Amount event per city =         9
+OS Name = Unknown       City Name = luohe       Amount event per city =         7
+OS Name = BlackBerry Tablet OS  City Name = luoyang     Amount event per city =         1
+OS Name = Sony Playstation      City Name = luoyang     Amount event per city =         1
+OS Name = Unknown       City Name = luoyang     Amount event per city =         22
+OS Name = Unknown       City Name = luzhou      Amount event per city =         8
+OS Name = BlackBerry Tablet OS  City Name = lvliang     Amount event per city =         1
+OS Name = Unknown       City Name = lvliang     Amount event per city =         25
+OS Name = Unknown       City Name = maanshan    Amount event per city =         3
+OS Name = Unknown       City Name = maoming     Amount event per city =         29
+OS Name = Unknown       City Name = meishan     Amount event per city =         5
+OS Name = Unknown       City Name = meizhou     Amount event per city =         14
+OS Name = Sony Playstation      City Name = mianyang    Amount event per city =         1
+OS Name = Unknown       City Name = mianyang    Amount event per city =         28
+OS Name = Unknown       City Name = mudanjiang  Amount event per city =         49
+OS Name = MeeGo City Name = nanchang    Amount event per city =         1
+OS Name = Symbian OS    City Name = nanchang    Amount event per city =         1
+OS Name = Unknown       City Name = nanchang    Amount event per city =         50
+OS Name = Unknown mobile        City Name = nanchang    Amount event per city =         1
+OS Name = WebOS City Name = nanchang    Amount event per city =         1
+OS Name = Unknown       City Name = nanchong    Amount event per city =         19
+OS Name = BlackBerry Tablet OS  City Name = nanjing     Amount event per city =         3
+OS Name = Chrome OS     City Name = nanjing     Amount event per city =         1
+OS Name = MeeGo City Name = nanjing     Amount event per city =         4
+OS Name = Sony Playstation      City Name = nanjing     Amount event per city =         5
+OS Name = Symbian OS    City Name = nanjing     Amount event per city =         1
+OS Name = Unknown       City Name = nanjing     Amount event per city =         118
+OS Name = Unknown mobile        City Name = nanjing     Amount event per city =         2
+OS Name = BlackBerry Tablet OS  City Name = nanning     Amount event per city =         4
+OS Name = MeeGo City Name = nanning     Amount event per city =         1
+OS Name = Sony Playstation      City Name = nanning     Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = nanning     Amount event per city =         1
+OS Name = Unknown       City Name = nanning     Amount event per city =         69
+OS Name = Unknown mobile        City Name = nanning     Amount event per city =         1
+OS Name = Unknown       City Name = nanping     Amount event per city =         5
+OS Name = Sony Playstation      City Name = nantong     Amount event per city =         1
+OS Name = Unknown       City Name = nantong     Amount event per city =         40
+OS Name = Symbian OS 9.x        City Name = nanyang     Amount event per city =         1
+OS Name = Unknown       City Name = nanyang     Amount event per city =         20
+OS Name = MeeGo City Name = neijiang    Amount event per city =         1
+OS Name = Unknown       City Name = neijiang    Amount event per city =         9
+OS Name = Sony Playstation      City Name = neimenggu   Amount event per city =         1
+OS Name = Unknown       City Name = neimenggu   Amount event per city =         9
+OS Name = BlackBerry Tablet OS  City Name = ningbo      Amount event per city =         4
+OS Name = Maemo City Name = ningbo      Amount event per city =         1
+OS Name = Sony Playstation      City Name = ningbo      Amount event per city =         4
+OS Name = Symbian OS    City Name = ningbo      Amount event per city =         5
+OS Name = Unknown       City Name = ningbo      Amount event per city =         58
+OS Name = Unknown       City Name = ningde      Amount event per city =         11
+OS Name = Unknown mobile        City Name = ningde      Amount event per city =         1
+OS Name = Unknown       City Name = ningxia     Amount event per city =         3
+OS Name = Unknown       City Name = nujiang     Amount event per city =         2
+OS Name = Unknown       City Name = panjin      Amount event per city =         4
+OS Name = Unknown       City Name = panzhihua   Amount event per city =         10
+OS Name = Unknown       City Name = pingdingshan        Amount event per city =         15
+OS Name = Unknown       City Name = pingliang   Amount event per city =         7
+OS Name = Unknown       City Name = pingxiang   Amount event per city =         1
+OS Name = Unknown       City Name = puer        Amount event per city =         3
+OS Name = Unknown       City Name = putian      Amount event per city =         13
+OS Name = Unknown mobile        City Name = putian      Amount event per city =         1
+OS Name = Unknown       City Name = puyang      Amount event per city =         12
+OS Name = Unknown       City Name = qiandongnan Amount event per city =         7
+OS Name = Unknown       City Name = qiannan     Amount event per city =         3
+OS Name = Unknown       City Name = qianxinan   Amount event per city =         6
+OS Name = MeeGo City Name = qingdao     Amount event per city =         8
+OS Name = Symbian OS    City Name = qingdao     Amount event per city =         1
+OS Name = Unknown       City Name = qingdao     Amount event per city =         60
+OS Name = Unknown       City Name = qinghai     Amount event per city =         1
+OS Name = Unknown       City Name = qingyang    Amount event per city =         2
+OS Name = Unknown       City Name = qingyuan    Amount event per city =         12
+OS Name = Unknown       City Name = qinhuangdao Amount event per city =         15
+OS Name = Unknown       City Name = qinzhou     Amount event per city =         6
+OS Name = Unknown       City Name = qiqihaer    Amount event per city =         32
+OS Name = Unknown       City Name = qitaihe     Amount event per city =         2
+OS Name = MeeGo City Name = quanzhou    Amount event per city =         1
+OS Name = Sony Playstation      City Name = quanzhou    Amount event per city =         1
+OS Name = Unknown       City Name = quanzhou    Amount event per city =         34
+OS Name = Unknown       City Name = qujing      Amount event per city =         8
+OS Name = MeeGo City Name = quzhou      Amount event per city =         2
+OS Name = Unknown       City Name = quzhou      Amount event per city =         14
+OS Name = Unknown       City Name = rizhao      Amount event per city =         9
+OS Name = Unknown       City Name = sanmenxia   Amount event per city =         10
+OS Name = Unknown       City Name = sanming     Amount event per city =         6
+OS Name = Bada  City Name = shandong    Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = shandong    Amount event per city =         2
+OS Name = MeeGo City Name = shandong    Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = shandong    Amount event per city =         2
+OS Name = Unknown       City Name = shandong    Amount event per city =         27
+OS Name = BlackBerry Tablet OS  City Name = shanghai    Amount event per city =         7
+OS Name = Chrome OS     City Name = shanghai    Amount event per city =         1
+OS Name = Maemo City Name = shanghai    Amount event per city =         2
+OS Name = MeeGo City Name = shanghai    Amount event per city =         1
+OS Name = Sony Playstation      City Name = shanghai    Amount event per city =         10
+OS Name = SunOS City Name = shanghai    Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = shanghai    Amount event per city =         2
+OS Name = Unknown       City Name = shanghai    Amount event per city =         341
+OS Name = Unknown mobile        City Name = shanghai    Amount event per city =         2
+OS Name = Unknown       City Name = shangluo    Amount event per city =         6
+OS Name = Unknown       City Name = shangqiu    Amount event per city =         19
+OS Name = Unknown mobile        City Name = shangqiu    Amount event per city =         1
+OS Name = Unknown       City Name = shangrao    Amount event per city =         16
+OS Name = Sony Playstation      City Name = shannxi     Amount event per city =         2
+OS Name = Unknown       City Name = shannxi     Amount event per city =         13
+OS Name = BlackBerry Tablet OS  City Name = shantou     Amount event per city =         1
+OS Name = MeeGo City Name = shantou     Amount event per city =         4
+OS Name = Unknown       City Name = shantou     Amount event per city =         41
+OS Name = Unknown       City Name = shanwei     Amount event per city =         12
+OS Name = Unknown       City Name = shanxi      Amount event per city =         18
+OS Name = Maemo City Name = shaoguan    Amount event per city =         1
+OS Name = Unknown       City Name = shaoguan    Amount event per city =         20
+OS Name = Unknown       City Name = shaoxing    Amount event per city =         22
+OS Name = Sony Playstation      City Name = shaoyang    Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = shaoyang    Amount event per city =         1
+OS Name = Unknown       City Name = shaoyang    Amount event per city =         17
+OS Name = BlackBerry Tablet OS  City Name = shenyang    Amount event per city =         3
+OS Name = Maemo City Name = shenyang    Amount event per city =         2
+OS Name = MeeGo City Name = shenyang    Amount event per city =         3
+OS Name = Sony Playstation      City Name = shenyang    Amount event per city =         1
+OS Name = Symbian OS    City Name = shenyang    Amount event per city =         3
+OS Name = Symbian OS 9.x        City Name = shenyang    Amount event per city =         5
+OS Name = Unknown       City Name = shenyang    Amount event per city =         46
+OS Name = Unknown mobile        City Name = shenyang    Amount event per city =         1
+OS Name = BlackBerry 6  City Name = shenzhen    Amount event per city =         1
+OS Name = BlackBerry 7  City Name = shenzhen    Amount event per city =         3
+OS Name = BlackBerry Tablet OS  City Name = shenzhen    Amount event per city =         6
+OS Name = Sony Playstation      City Name = shenzhen    Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = shenzhen    Amount event per city =         1
+OS Name = Unknown       City Name = shenzhen    Amount event per city =         424
+OS Name = Unknown mobile        City Name = shenzhen    Amount event per city =         9
+OS Name = WebOS City Name = shenzhen    Amount event per city =         2
+OS Name = Bada  City Name = shijiazhuang        Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = shijiazhuang        Amount event per city =         3
+OS Name = Sony Playstation      City Name = shijiazhuang        Amount event per city =         1
+OS Name = Symbian OS    City Name = shijiazhuang        Amount event per city =         3
+OS Name = Symbian OS 9.x        City Name = shijiazhuang        Amount event per city =         5
+OS Name = Unknown       City Name = shijiazhuang        Amount event per city =         80
+OS Name = Unknown mobile        City Name = shijiazhuang        Amount event per city =         2
+OS Name = Unknown       City Name = shiyan      Amount event per city =         6
+OS Name = Unknown       City Name = shizuishan  Amount event per city =         8
+OS Name = Unknown mobile        City Name = shizuishan  Amount event per city =         1
+OS Name = Unknown       City Name = shuangyashan        Amount event per city =         3
+OS Name = Unknown       City Name = shuozhou    Amount event per city =         3
+OS Name = BlackBerry Tablet OS  City Name = sichuan     Amount event per city =         5
+OS Name = MeeGo City Name = sichuan     Amount event per city =         2
+OS Name = Unknown       City Name = sichuan     Amount event per city =         22
+OS Name = Unknown       City Name = siping      Amount event per city =         9
+OS Name = Unknown       City Name = songyuan    Amount event per city =         2
+OS Name = Unknown       City Name = suihua      Amount event per city =         4
+OS Name = Unknown       City Name = suining     Amount event per city =         7
+OS Name = Unknown       City Name = suizhou     Amount event per city =         4
+OS Name = Unknown       City Name = suqian      Amount event per city =         19
+OS Name = Unknown       City Name = suzhou      Amount event per city =         9
+OS Name = BlackBerry 7  City Name = suzhou_jiangsu      Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = suzhou_jiangsu      Amount event per city =         2
+OS Name = Chrome OS     City Name = suzhou_jiangsu      Amount event per city =         4
+OS Name = MeeGo City Name = suzhou_jiangsu      Amount event per city =         4
+OS Name = Sony Playstation      City Name = suzhou_jiangsu      Amount event per city =         3
+OS Name = Unknown       City Name = suzhou_jiangsu      Amount event per city =         133
+OS Name = Unknown       City Name = tacheng     Amount event per city =         1
+OS Name = Unknown       City Name = taian       Amount event per city =         17
+OS Name = Bada  City Name = taiwan      Amount event per city =         2
+OS Name = BlackBerry Tablet OS  City Name = taiwan      Amount event per city =         1
+OS Name = Sony Playstation      City Name = taiwan      Amount event per city =         2
+OS Name = Symbian OS    City Name = taiwan      Amount event per city =         2
+OS Name = Unknown       City Name = taiwan      Amount event per city =         110
+OS Name = Unknown mobile        City Name = taiwan      Amount event per city =         2
+OS Name = Xbox OS       City Name = taiwan      Amount event per city =         1
+OS Name = BlackBerry 7  City Name = taiyuan     Amount event per city =         1
+OS Name = Chrome OS     City Name = taiyuan     Amount event per city =         1
+OS Name = Unknown       City Name = taiyuan     Amount event per city =         89
+OS Name = Unknown mobile        City Name = taiyuan     Amount event per city =         1
+OS Name = Maemo City Name = taizhou     Amount event per city =         1
+OS Name = MeeGo City Name = taizhou     Amount event per city =         3
+OS Name = Unknown       City Name = taizhou     Amount event per city =         35
+OS Name = Maemo City Name = taizhou_jiangsu     Amount event per city =         1
+OS Name = Unknown       City Name = taizhou_jiangsu     Amount event per city =         20
+OS Name = Unknown       City Name = tangshan    Amount event per city =         32
+OS Name = Unknown mobile        City Name = tangshan    Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = tianjin     Amount event per city =         12
+OS Name = BlackBerryOS  City Name = tianjin     Amount event per city =         2
+OS Name = MeeGo City Name = tianjin     Amount event per city =         2
+OS Name = Sony Ericsson City Name = tianjin     Amount event per city =         1
+OS Name = Sony Playstation      City Name = tianjin     Amount event per city =         1
+OS Name = Symbian OS    City Name = tianjin     Amount event per city =         2
+OS Name = Unknown       City Name = tianjin     Amount event per city =         242
+OS Name = Unknown mobile        City Name = tianjin     Amount event per city =         2
+OS Name = Unknown       City Name = tianshui    Amount event per city =         2
+OS Name = Unknown       City Name = tieling     Amount event per city =         7
+OS Name = Sony Playstation      City Name = tonghua     Amount event per city =         2
+OS Name = Unknown       City Name = tonghua     Amount event per city =         2
+OS Name = Unknown       City Name = tongliao    Amount event per city =         3
+OS Name = Unknown       City Name = tongling    Amount event per city =         7
+OS Name = Unknown       City Name = tongren     Amount event per city =         4
+OS Name = Unknown       City Name = tulufan     Amount event per city =         2
+OS Name = BlackBerry 6  City Name = unknown     Amount event per city =         5
+OS Name = BlackBerry 7  City Name = unknown     Amount event per city =         9
+OS Name = BlackBerry Tablet OS  City Name = unknown     Amount event per city =         42
+OS Name = BlackBerryOS  City Name = unknown     Amount event per city =         1
+OS Name = Chrome OS     City Name = unknown     Amount event per city =         27
+OS Name = Maemo City Name = unknown     Amount event per city =         3
+OS Name = MeeGo City Name = unknown     Amount event per city =         13
+OS Name = Nintendo Wii  City Name = unknown     Amount event per city =         2
+OS Name = Sony Playstation      City Name = unknown     Amount event per city =         9
+OS Name = SunOS City Name = unknown     Amount event per city =         2
+OS Name = Symbian OS    City Name = unknown     Amount event per city =         14
+OS Name = Symbian OS 9.x        City Name = unknown     Amount event per city =         3
+OS Name = Unknown       City Name = unknown     Amount event per city =         1459
+OS Name = Unknown mobile        City Name = unknown     Amount event per city =         14
+OS Name = BlackBerry Tablet OS  City Name = weifang     Amount event per city =         1
+OS Name = MeeGo City Name = weifang     Amount event per city =         2
+OS Name = Sony Playstation      City Name = weifang     Amount event per city =         1
+OS Name = Unknown       City Name = weifang     Amount event per city =         40
+OS Name = Symbian OS 9.x        City Name = weihai      Amount event per city =         2
+OS Name = Unknown       City Name = weihai      Amount event per city =         9
+OS Name = Unknown       City Name = weinan      Amount event per city =         11
+OS Name = Unknown       City Name = wenshan     Amount event per city =         6
+OS Name = Unknown mobile        City Name = wenshan     Amount event per city =         1
+OS Name = MeeGo City Name = wenzhou     Amount event per city =         3
+OS Name = Symbian OS 9.x        City Name = wenzhou     Amount event per city =         1
+OS Name = Unknown       City Name = wenzhou     Amount event per city =         86
+OS Name = Unknown mobile        City Name = wenzhou     Amount event per city =         1
+OS Name = Unknown       City Name = wuhai       Amount event per city =         4
+OS Name = BlackBerry 7  City Name = wuhan       Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = wuhan       Amount event per city =         4
+OS Name = MeeGo City Name = wuhan       Amount event per city =         5
+OS Name = Sony Playstation      City Name = wuhan       Amount event per city =         1
+OS Name = Symbian OS 9.x        City Name = wuhan       Amount event per city =         1
+OS Name = Unknown       City Name = wuhan       Amount event per city =         139
+OS Name = Unknown mobile        City Name = wuhan       Amount event per city =         3
+OS Name = WebOS City Name = wuhan       Amount event per city =         1
+OS Name = Unknown       City Name = wuhu        Amount event per city =         16
+OS Name = Unknown mobile        City Name = wuhu        Amount event per city =         1
+OS Name = Unknown       City Name = wulanchabu  Amount event per city =         4
+OS Name = Bada  City Name = wulumuqi    Amount event per city =         1
+OS Name = Maemo City Name = wulumuqi    Amount event per city =         5
+OS Name = Sony Playstation      City Name = wulumuqi    Amount event per city =         1
+OS Name = Unknown       City Name = wulumuqi    Amount event per city =         27
+OS Name = Unknown       City Name = wuwei       Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = wuxi        Amount event per city =         4
+OS Name = BlackBerryOS  City Name = wuxi        Amount event per city =         1
+OS Name = Sony Playstation      City Name = wuxi        Amount event per city =         1
+OS Name = Unknown       City Name = wuxi        Amount event per city =         110
+OS Name = Unknown mobile        City Name = wuxi        Amount event per city =         1
+OS Name = Unknown       City Name = wuzhong     Amount event per city =         5
+OS Name = Unknown       City Name = wuzhou      Amount event per city =         11
+OS Name = Sony Playstation      City Name = xiamen      Amount event per city =         1
+OS Name = Unknown       City Name = xiamen      Amount event per city =         50
+OS Name = Unknown mobile        City Name = xiamen      Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = xian        Amount event per city =         1
+OS Name = BlackBerryOS  City Name = xian        Amount event per city =         2
+OS Name = MeeGo City Name = xian        Amount event per city =         1
+OS Name = Sony Playstation      City Name = xian        Amount event per city =         3
+OS Name = Unknown       City Name = xian        Amount event per city =         168
+OS Name = Unknown mobile        City Name = xian        Amount event per city =         2
+OS Name = WebOS City Name = xian        Amount event per city =         1
+OS Name = BlackBerry Tablet OS  City Name = xiangfan    Amount event per city =         3
+OS Name = Symbian OS    City Name = xiangfan    Amount event per city =         1
+OS Name = Unknown       City Name = xiangfan    Amount event per city =         9
+OS Name = Unknown mobile        City Name = xiangfan    Amount event per city =         1
+OS Name = Bada  City Name = xianggang   Amount event per city =         1
+OS Name = Sony Playstation      City Name = xianggang   Amount event per city =         1
+OS Name = Symbian OS    City Name = xianggang   Amount event per city =         2
+OS Name = Unknown       City Name = xianggang   Amount event per city =         13
+OS Name = Unknown mobile        City Name = xianggang   Amount event per city =         1
+OS Name = Unknown       City Name = xiangtan    Amount event per city =         12
+OS Name = Unknown       City Name = xiangxi     Amount event per city =         4
+OS Name = BlackBerry Tablet OS  City Name = xianning    Amount event per city =         1
+OS Name = Unknown       City Name = xianning    Amount event per city =         7
+OS Name = Unknown       City Name = xianyang    Amount event per city =         34
+OS Name = Unknown       City Name = xiaogan     Amount event per city =         9
+OS Name = Unknown       City Name = xilinguole  Amount event per city =         2
+OS Name = Unknown       City Name = xingan      Amount event per city =         2
+OS Name = BlackBerry Tablet OS  City Name = xingtai     Amount event per city =         2
+OS Name = Sony Playstation      City Name = xingtai     Amount event per city =         1
+OS Name = Unknown       City Name = xingtai     Amount event per city =         28
+OS Name = Unknown       City Name = xining      Amount event per city =         16
+OS Name = Unknown       City Name = xinjiang    Amount event per city =         5
+OS Name = Unknown       City Name = xinxiang    Amount event per city =         30
+OS Name = Unknown       City Name = xinyang     Amount event per city =         11
+OS Name = Unknown       City Name = xinyu       Amount event per city =         6
+OS Name = Unknown       City Name = xinzhou     Amount event per city =         14
+OS Name = Unknown       City Name = xishuangbanna       Amount event per city =         5
+OS Name = Unknown       City Name = xizang      Amount event per city =         1
+OS Name = Unknown       City Name = xuancheng   Amount event per city =         9
+OS Name = Unknown       City Name = xuchang     Amount event per city =         10
+OS Name = Unknown mobile        City Name = xuchang     Amount event per city =         1
+OS Name = Symbian OS    City Name = xuzhou      Amount event per city =         2
+OS Name = Unknown       City Name = xuzhou      Amount event per city =         38
+OS Name = Unknown mobile        City Name = xuzhou      Amount event per city =         1
+OS Name = Unknown       City Name = yaan        Amount event per city =         5
+OS Name = Unknown       City Name = yanan       Amount event per city =         2
+OS Name = Unknown       City Name = yanbian     Amount event per city =         11
+OS Name = Unknown       City Name = yancheng    Amount event per city =         18
+OS Name = Unknown mobile        City Name = yancheng    Amount event per city =         1
+OS Name = MeeGo City Name = yangjiang   Amount event per city =         2
+OS Name = Unknown       City Name = yangjiang   Amount event per city =         13
+OS Name = Unknown       City Name = yangquan    Amount event per city =         6
+OS Name = MeeGo City Name = yangzhou    Amount event per city =         2
+OS Name = Unknown       City Name = yangzhou    Amount event per city =         15
+OS Name = BlackBerry Tablet OS  City Name = yantai      Amount event per city =         1
+OS Name = MeeGo City Name = yantai      Amount event per city =         1
+OS Name = Symbian OS    City Name = yantai      Amount event per city =         2
+OS Name = Unknown       City Name = yantai      Amount event per city =         31
+OS Name = Sony Playstation      City Name = yibin       Amount event per city =         3
+OS Name = Unknown       City Name = yibin       Amount event per city =         18
+OS Name = Unknown       City Name = yichang     Amount event per city =         4
+OS Name = Unknown       City Name = yichun_134  Amount event per city =         10
+OS Name = Unknown       City Name = yichun_65   Amount event per city =         9
+OS Name = Unknown       City Name = yili        Amount event per city =         9
+OS Name = Unknown       City Name = yinchuan    Amount event per city =         10
+OS Name = Unknown       City Name = yingkou     Amount event per city =         5
+OS Name = BlackBerry Tablet OS  City Name = yingtan     Amount event per city =         2
+OS Name = Unknown       City Name = yingtan     Amount event per city =         4
+OS Name = Unknown       City Name = yiyang      Amount event per city =         11
+OS Name = Unknown       City Name = yongzhou    Amount event per city =         4
+OS Name = Unknown       City Name = yueyang     Amount event per city =         14
+OS Name = Unknown       City Name = yulin_238   Amount event per city =         15
+OS Name = BlackBerry Tablet OS  City Name = yulin_333   Amount event per city =         1
+OS Name = Unknown       City Name = yulin_333   Amount event per city =         7
+OS Name = MeeGo City Name = yuncheng    Amount event per city =         1
+OS Name = Unknown       City Name = yuncheng    Amount event per city =         11
+OS Name = MeeGo City Name = yunfu       Amount event per city =         1
+OS Name = Unknown       City Name = yunfu       Amount event per city =         7
+OS Name = Unknown       City Name = yunnan      Amount event per city =         6
+OS Name = Unknown       City Name = yuxi        Amount event per city =         6
+OS Name = Unknown       City Name = zaozhuang   Amount event per city =         14
+OS Name = Unknown       City Name = zhangjiajie Amount event per city =         5
+OS Name = Maemo City Name = zhangjiakou Amount event per city =         1
+OS Name = Unknown       City Name = zhangjiakou Amount event per city =         22
+OS Name = Unknown       City Name = zhangye     Amount event per city =         3
+OS Name = Unknown       City Name = zhangzhou   Amount event per city =         18
+OS Name = MeeGo City Name = zhanjiang   Amount event per city =         1
+OS Name = Unknown       City Name = zhanjiang   Amount event per city =         27
+OS Name = Sony Playstation      City Name = zhaoqing    Amount event per city =         1
+OS Name = Unknown       City Name = zhaoqing    Amount event per city =         19
+OS Name = Unknown mobile        City Name = zhaoqing    Amount event per city =         2
+OS Name = Unknown       City Name = zhaotong    Amount event per city =         8
+OS Name = Unknown       City Name = zhejiang    Amount event per city =         16
+OS Name = Maemo City Name = zhengzhou   Amount event per city =         1
+OS Name = MeeGo City Name = zhengzhou   Amount event per city =         2
+OS Name = Unknown       City Name = zhengzhou   Amount event per city =         111
+OS Name = Unknown mobile        City Name = zhengzhou   Amount event per city =         2
+OS Name = Sony Playstation      City Name = zhenjiang   Amount event per city =         1
+OS Name = Unknown       City Name = zhenjiang   Amount event per city =         15
+OS Name = BlackBerry Tablet OS  City Name = zhongshan   Amount event per city =         2
+OS Name = Unknown       City Name = zhongshan   Amount event per city =         60
+OS Name = Unknown       City Name = zhongwei    Amount event per city =         1
+OS Name = Unknown       City Name = zhoukou     Amount event per city =         7
+OS Name = Unknown       City Name = zhoushan    Amount event per city =         4
+OS Name = BlackBerry Tablet OS  City Name = zhuhai      Amount event per city =         1
+OS Name = Maemo City Name = zhuhai      Amount event per city =         1
+OS Name = MeeGo City Name = zhuhai      Amount event per city =         3
+OS Name = Symbian OS 9.x        City Name = zhuhai      Amount event per city =         1
+OS Name = Unknown       City Name = zhuhai      Amount event per city =         612
+OS Name = Unknown       City Name = zhumadian   Amount event per city =         13
+OS Name = Unknown       City Name = zhuzhou     Amount event per city =         17
+OS Name = Unknown       City Name = zibo        Amount event per city =         15
+OS Name = Unknown mobile        City Name = zibo        Amount event per city =         1
+OS Name = Unknown       City Name = zigong      Amount event per city =         16
+OS Name = Unknown       City Name = ziyang      Amount event per city =         3
+OS Name = Maemo City Name = zunyi       Amount event per city =         1
+OS Name = Unknown       City Name = zunyi       Amount event per city =         17

@@ -1,373 +1,322 @@
-OS Name = Linux	City Name = anhui		111
-OS Name = Ubuntu	City Name = guangzhou		4
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = sichuan		24
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = hefei		6
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = guangzhou		30
-OS Name = Linux	City Name = beijing		62
-OS Name = Ubuntu	City Name = chongqing		1
-OS Name = Linux	City Name = foshan		59
-OS Name = Ubuntu	City Name = suzhou_jiangsu		5
-OS Name = Linux	City Name = fuzhou_124		48
-OS Name = Ubuntu	City Name = guiyang		30
-OS Name = Linux	City Name = beijing		97
-OS Name = Linux	City Name = beijing		99
-OS Name = Ubuntu	City Name = beijing		24
-OS Name = Linux	City Name = hefei		149
-OS Name = Ubuntu	City Name = baotou		31
-OS Name = Linux	City Name = tianjin		38
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = wuhan		1
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = hangzhou		1
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = shannxi		24
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = unknown		51
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = suzhou_jiangsu		13
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = hangzhou		30
-OS Name = Ubuntu	City Name = fuyang		71
-OS Name = Linux	City Name = xinzhou		3
-OS Name = Ubuntu	City Name = shanghai		1
-OS Name = Linux	City Name = dalian		4
-OS Name = Ubuntu	City Name = shanghai		1
-OS Name = Linux	City Name = unknown		14
-OS Name = Ubuntu	City Name = shanghai		5
-OS Name = Linux	City Name = unknown		34
-OS Name = Ubuntu	City Name = shanghai		1
-OS Name = Linux	City Name = unknown		85
-OS Name = Ubuntu	City Name = shanghai		1
-OS Name = Linux	City Name = sichuan		31
-OS Name = Ubuntu	City Name = shanghai		1
-OS Name = Linux	City Name = aomen		273
-OS Name = Ubuntu	City Name = baoding		6
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = aomen		3
-OS Name = Linux	City Name = beijing		9
-OS Name = Ubuntu	City Name = foshan		3
-OS Name = Linux	City Name = beijing		6
-OS Name = Ubuntu	City Name = guangzhou		4
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = suzhou_jiangsu		4
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = suzhou_jiangsu		2
-OS Name = Linux	City Name = beijing		2
-OS Name = Ubuntu	City Name = jinan		2
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = qingdao		12
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = shenzhen		7
-OS Name = Linux	City Name = beijing		3
-OS Name = Ubuntu	City Name = chengdu		1
-OS Name = Linux	City Name = beijing		2
-OS Name = Ubuntu	City Name = shenzhen		1
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = tianjin		8
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = hangzhou		1
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = zhuhai		9
-OS Name = Linux	City Name = beijing		2
-OS Name = Ubuntu	City Name = yantai		3
-OS Name = Linux	City Name = beijing		3
-OS Name = Linux	City Name = shanghai		194
-OS Name = Ubuntu	City Name = quanzhou		45
-OS Name = Linux	City Name = shenzhen		220
-OS Name = Ubuntu	City Name = guangxi		7
-OS Name = Linux	City Name = nanchang		160
-OS Name = Ubuntu	City Name = wuhan		39
-OS Name = Linux	City Name = beijing		5
-OS Name = Ubuntu	City Name = changsha		2
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = hefei		4
-OS Name = Linux	City Name = beijing		2
-OS Name = Ubuntu	City Name = taiwan		2
-OS Name = Linux	City Name = beijing		1
-OS Name = Ubuntu	City Name = shenzhen		1
-OS Name = Linux	City Name = beijing		2
-OS Name = Ubuntu	City Name = dongguan		135
-OS Name = Linux	City Name = foshan		9
-OS Name = Ubuntu	City Name = beijing		103
-OS Name = Linux	City Name = foshan		174
-OS Name = Ubuntu	City Name = dalian		1
-OS Name = Linux	City Name = wuhan		88
-OS Name = Linux	City Name = jiangmen		182
-OS Name = Ubuntu	City Name = unknown		26
-OS Name = Linux	City Name = hangzhou		22
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = shenzhen		82
-OS Name = Ubuntu	City Name = wuhan		5
-OS Name = Linux	City Name = wuxi		3
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = unknown		39
-OS Name = Ubuntu	City Name = xian		2
-OS Name = Linux	City Name = xianggang		94
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = unknown		19
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = unknown		45
-OS Name = Ubuntu	City Name = beijing		22
-OS Name = Linux	City Name = shanghai		108
-OS Name = Ubuntu	City Name = xiangfan		6
-OS Name = Linux	City Name = beijing		74
-OS Name = Ubuntu	City Name = xian		13
-OS Name = Linux	City Name = shanghai		2
-OS Name = Ubuntu	City Name = xian		7
-OS Name = Linux	City Name = shanghai		1
-OS Name = Ubuntu	City Name = unknown		5
-OS Name = Linux	City Name = shanghai		1
-OS Name = Ubuntu	City Name = jinan		9
-OS Name = Linux	City Name = taiyuan		53
-OS Name = Ubuntu	City Name = shanghai		34
-OS Name = Linux	City Name = chengdu		28
-OS Name = Ubuntu	City Name = shenzhen		1
-OS Name = Linux	City Name = unknown		93
-OS Name = Ubuntu	City Name = shenzhen		1
-OS Name = Linux	City Name = xian		30
-OS Name = Ubuntu	City Name = shenzhen		1
-OS Name = Linux	City Name = chongqing		120
-OS Name = Ubuntu	City Name = haerbin		65
-OS Name = Linux	City Name = shanghai		9
-OS Name = Ubuntu	City Name = tianjin		1
-OS Name = Linux	City Name = beijing		77
-OS Name = Ubuntu	City Name = tianjin		1
-OS Name = Linux	City Name = hangzhou		3
-OS Name = Ubuntu	City Name = tianjin		1
-OS Name = Linux	City Name = beijing		84
-OS Name = Ubuntu	City Name = unknown		13
-OS Name = Linux	City Name = chongqing		8
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = quanzhou		13
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = tianjin		37
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = huzhou		3
-OS Name = Ubuntu	City Name = baoding		14
-OS Name = Linux	City Name = shanghai		4
-OS Name = Ubuntu	City Name = unknown		2
-OS Name = Linux	City Name = baoji		7
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = beijing		57
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = chongqing		10
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = guangzhou		33
-OS Name = Ubuntu	City Name = beijing		6
-OS Name = Linux	City Name = nanjing		26
-OS Name = Ubuntu	City Name = guangzhou		1
-OS Name = Linux	City Name = longyan		15
-OS Name = Ubuntu	City Name = guangzhou		1
-OS Name = Linux	City Name = foshan		17
-OS Name = Ubuntu	City Name = suzhou_jiangsu		64
-OS Name = Linux	City Name = beijing		117
-OS Name = Ubuntu	City Name = tianjin		1
-OS Name = Linux	City Name = shanghai		29
-OS Name = Ubuntu	City Name = tianjin		1
-OS Name = Ubuntu	City Name = dalian		55
-OS Name = Linux	City Name = chengdu		47
-OS Name = Ubuntu	City Name = hangzhou		30
-OS Name = Linux	City Name = anhui		26
-OS Name = Ubuntu	City Name = hangzhou		1
-OS Name = Ubuntu	City Name = unknown		76
-OS Name = Linux	City Name = jiamusi		4
-OS Name = Ubuntu	City Name = chengdu		1
-OS Name = Linux	City Name = xian		6
-OS Name = Ubuntu	City Name = chengdu		1
-OS Name = Linux	City Name = guangzhou		7
-OS Name = Ubuntu	City Name = changji		77
-OS Name = Linux	City Name = tieling		31
-OS Name = Ubuntu	City Name = unknown		5
-OS Name = Linux	City Name = quzhou		40
-OS Name = Ubuntu	City Name = hangzhou		14
-OS Name = Linux	City Name = wuhan		30
-OS Name = Ubuntu	City Name = shanghai		7
-OS Name = Linux	City Name = hangzhou		6
-OS Name = Ubuntu	City Name = dalian		16
-OS Name = Linux	City Name = shenzhen		44
-OS Name = Ubuntu	City Name = dalian		1
-OS Name = Linux	City Name = beijing		68
-OS Name = Ubuntu	City Name = beijing		51
-OS Name = Linux	City Name = xianyang		44
-OS Name = Linux	City Name = suzhou_jiangsu		17
-OS Name = Ubuntu	City Name = nanjing		64
-OS Name = Linux	City Name = shenzhen		103
-OS Name = Ubuntu	City Name = suzhou_jiangsu		1
-OS Name = Linux	City Name = beijing		43
-OS Name = Ubuntu	City Name = unknown		12
-OS Name = Linux	City Name = shandong		37
-OS Name = Ubuntu	City Name = beijing		7
-OS Name = Linux	City Name = suzhou_jiangsu		1
-OS Name = Ubuntu	City Name = xingtai		11
-OS Name = Linux	City Name = chongqing		33
-OS Name = Ubuntu	City Name = quzhou		21
-OS Name = Linux	City Name = fuzhou_124		1
-OS Name = Ubuntu	City Name = shenzhen		1
-OS Name = Linux	City Name = lishui		74
-OS Name = Ubuntu	City Name = guangzhou		10
-OS Name = Linux	City Name = beijing		46
-OS Name = Ubuntu	City Name = shanghai		1
-OS Name = Linux	City Name = tianjin		104
-OS Name = Ubuntu	City Name = beijing		35
-OS Name = Linux	City Name = unknown		55
-OS Name = Ubuntu	City Name = hangzhou		1
-OS Name = Linux	City Name = qingdao		160
-OS Name = Ubuntu	City Name = hefei		49
-OS Name = Linux	City Name = xianggang		78
-OS Name = Ubuntu	City Name = beijing		21
-OS Name = Linux	City Name = nanjing		41
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = hangzhou		20
-OS Name = Ubuntu	City Name = xiamen		2
-OS Name = Linux	City Name = shenzhen		63
-OS Name = Ubuntu	City Name = tianjin		8
-OS Name = Linux	City Name = shenzhen		9
-OS Name = Ubuntu	City Name = guangzhou		1
-OS Name = Linux	City Name = zhuhai		17
-OS Name = Ubuntu	City Name = guangzhou		12
-OS Name = Linux	City Name = guangdong		39
-OS Name = Ubuntu	City Name = shenzhen		21
-OS Name = Linux	City Name = qingyuan		66
-OS Name = Ubuntu	City Name = nanjing		31
-OS Name = Linux	City Name = sichuan		153
-OS Name = Ubuntu	City Name = chengdu		15
-OS Name = Linux	City Name = shijiazhuang		144
-OS Name = Ubuntu	City Name = beijing		78
-OS Name = Linux	City Name = anhui		152
-OS Name = Ubuntu	City Name = beijing		12
-OS Name = Linux	City Name = shenzhen		5
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = zhaoqing		3
-OS Name = Ubuntu	City Name = unknown		46
-OS Name = Linux	City Name = beijing		13
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = nanjing		2
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = xianyang		12
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = shuozhou		31
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = chenzhou		20
-OS Name = Ubuntu	City Name = xian		1
-OS Name = Linux	City Name = shanghai		46
-OS Name = Ubuntu	City Name = nanjing		3
-OS Name = Linux	City Name = shanghai		1
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = shanghai		2
-OS Name = Ubuntu	City Name = zhejiang		1
-OS Name = Linux	City Name = shanghai		2
-OS Name = Ubuntu	City Name = zhenjiang		1
-OS Name = Linux	City Name = shanghai		2
-OS Name = Ubuntu	City Name = guangzhou		1
-OS Name = Linux	City Name = shanghai		2
-OS Name = Ubuntu	City Name = guangzhou		2
-OS Name = Linux	City Name = shenzhen		28
-OS Name = Ubuntu	City Name = guangdong		16
-OS Name = Linux	City Name = beijing		148
-OS Name = Ubuntu	City Name = nanning		32
-OS Name = Linux	City Name = shanghai		99
-OS Name = Ubuntu	City Name = beijing		9
-OS Name = Linux	City Name = puyang		64
-OS Name = Ubuntu	City Name = beijing		17
-OS Name = Linux	City Name = shenzhen		162
-OS Name = Ubuntu	City Name = beijing		37
-OS Name = Linux	City Name = changsha		74
-OS Name = Ubuntu	City Name = shenzhen		51
-OS Name = Linux	City Name = qingdao		164
-OS Name = Ubuntu	City Name = beijing		7
-OS Name = Linux	City Name = unknown		173
-OS Name = Ubuntu	City Name = chengdu		20
-OS Name = Linux	City Name = shenzhen		45
-OS Name = Ubuntu	City Name = shanghai		14
-OS Name = Linux	City Name = nanning		58
-OS Name = Ubuntu	City Name = beijing		16
-OS Name = Linux	City Name = shanghai		67
-OS Name = Ubuntu	City Name = huizhou		20
-OS Name = Linux	City Name = shanghai		82
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = shanghai		36
-OS Name = Ubuntu	City Name = shanghai		26
-OS Name = Linux	City Name = shenzhen		48
-OS Name = Ubuntu	City Name = hefei		17
-OS Name = Linux	City Name = hengyang		70
-OS Name = Ubuntu	City Name = xuzhou		4
-OS Name = Linux	City Name = xian		63
-OS Name = Ubuntu	City Name = xuzhou		2
-OS Name = Linux	City Name = suzhou_jiangsu		5
-OS Name = Ubuntu	City Name = nanjing		25
-OS Name = Linux	City Name = suzhou_jiangsu		1
-OS Name = Ubuntu	City Name = beijing		2
-OS Name = Linux	City Name = suzhou_jiangsu		2
-OS Name = Ubuntu	City Name = beijing		12
-OS Name = Linux	City Name = suzhou_jiangsu		1
-OS Name = Ubuntu	City Name = hangzhou		17
-OS Name = Linux	City Name = yangzhou		36
-OS Name = Ubuntu	City Name = nanjing		47
-OS Name = Linux	City Name = luzhou		123
-OS Name = Ubuntu	City Name = hefei		17
-OS Name = Linux	City Name = shanghai		54
-OS Name = Ubuntu	City Name = shannxi		58
-OS Name = Linux	City Name = xian		139
-OS Name = Ubuntu	City Name = beijing		7
-OS Name = Linux	City Name = taiwan		100
-OS Name = Ubuntu	City Name = beijing		12
-OS Name = Linux	City Name = hefei		58
-OS Name = Ubuntu	City Name = shanghai		15
-OS Name = Linux	City Name = hangzhou		1
-OS Name = Ubuntu	City Name = guangzhou		2
-OS Name = Linux	City Name = hangzhou		2
-OS Name = Ubuntu	City Name = unknown		2
-OS Name = Linux	City Name = hangzhou		1
-OS Name = Ubuntu	City Name = beijing		22
-OS Name = Linux	City Name = hangzhou		1
-OS Name = Ubuntu	City Name = guangzhou		1
-OS Name = Linux	City Name = hangzhou		1
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = hangzhou		1
-OS Name = Ubuntu	City Name = beijing		18
-OS Name = Linux	City Name = hangzhou		2
-OS Name = Ubuntu	City Name = beijing		5
-OS Name = Linux	City Name = hangzhou		2
-OS Name = Ubuntu	City Name = unknown		5
-OS Name = Linux	City Name = hangzhou		1
-OS Name = Ubuntu	City Name = guangzhou		1
-OS Name = Ubuntu	City Name = huizhou		160
-OS Name = Linux	City Name = shenyang		97
-OS Name = Ubuntu	City Name = nantong		9
-OS Name = Linux	City Name = benxi		139
-OS Name = Ubuntu	City Name = unknown		9
-OS Name = Linux	City Name = shannxi		19
-OS Name = Ubuntu	City Name = unknown		1
-OS Name = Linux	City Name = yuncheng		19
-OS Name = Ubuntu	City Name = shenzhen		33
-OS Name = Linux	City Name = shantou		25
-OS Name = Ubuntu	City Name = zhoukou		49
-OS Name = Linux	City Name = wuxi		79
-OS Name = Ubuntu	City Name = tianjin		18
-OS Name = Linux	City Name = huaian		66
-OS Name = Ubuntu	City Name = xian		4
-OS Name = Linux	City Name = hangzhou		11
-OS Name = Ubuntu	City Name = beijing		5
-OS Name = Linux	City Name = unknown		8
-OS Name = Ubuntu	City Name = beijing		13
-OS Name = Linux	City Name = qiqihaer		27
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = shangrao		1
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = jiaxing		1
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = changchun		10
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = shanghai		4
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = unknown		2
-OS Name = Linux	City Name = zhengzhou		73
-OS Name = Ubuntu	City Name = beijing		1
-OS Name = Linux	City Name = zhangjiakou		27
-OS Name = Ubuntu	City Name = unknown		12
-OS Name = Linux	City Name = yangjiang		69
-OS Name = Ubuntu	City Name = xiaogan		23
-OS Name = Linux	City Name = zhuzhou		15
+OS Name = Linux City Name = anhui       Amount event per city =         46
+OS Name = Linux City Name = ankang      Amount event per city =         8
+OS Name = Linux City Name = anqing      Amount event per city =         9
+OS Name = Linux City Name = anshan      Amount event per city =         18
+OS Name = Linux City Name = anshun      Amount event per city =         6
+OS Name = Linux City Name = anyang      Amount event per city =         12
+OS Name = Linux City Name = aomen       Amount event per city =         6
+OS Name = Linux City Name = baise       Amount event per city =         10
+OS Name = Linux City Name = baishan     Amount event per city =         7
+OS Name = Linux City Name = baiyin      Amount event per city =         3
+OS Name = Linux City Name = bangbu      Amount event per city =         12
+OS Name = Linux City Name = baoding     Amount event per city =         31
+OS Name = Linux City Name = baoji       Amount event per city =         17
+OS Name = Linux City Name = baotou      Amount event per city =         13
+OS Name = Linux City Name = bayannaoer  Amount event per city =         2
+OS Name = Linux City Name = bayinguoleng        Amount event per city =         4
+OS Name = Linux City Name = bazhong     Amount event per city =         3
+OS Name = Linux City Name = beihai      Amount event per city =         8
+OS Name = Linux City Name = beijing     Amount event per city =         1309
+OS Name = Linux City Name = benxi       Amount event per city =         5
+OS Name = Linux City Name = binzhou     Amount event per city =         11
+OS Name = Linux City Name = bozhou      Amount event per city =         3
+OS Name = Linux City Name = cangzhou    Amount event per city =         18
+OS Name = Linux City Name = changchun   Amount event per city =         50
+OS Name = Linux City Name = changde     Amount event per city =         9
+OS Name = Linux City Name = changji     Amount event per city =         6
+OS Name = Linux City Name = changsha    Amount event per city =         105
+OS Name = Linux City Name = changzhi    Amount event per city =         12
+OS Name = Linux City Name = changzhou   Amount event per city =         17
+OS Name = Linux City Name = chaohu      Amount event per city =         9
+OS Name = Linux City Name = chaoyang    Amount event per city =         3
+OS Name = Linux City Name = chaozhou    Amount event per city =         8
+OS Name = Linux City Name = chengde     Amount event per city =         2
+OS Name = Linux City Name = chengdu     Amount event per city =         235
+OS Name = Linux City Name = chenzhou    Amount event per city =         10
+OS Name = Linux City Name = chifeng     Amount event per city =         2
+OS Name = Linux City Name = chizhou     Amount event per city =         2
+OS Name = Linux City Name = chongqing   Amount event per city =         186
+OS Name = Linux City Name = chuxiong    Amount event per city =         2
+OS Name = Linux City Name = chuzhou     Amount event per city =         7
+OS Name = Linux City Name = dali        Amount event per city =         1
+OS Name = Linux City Name = dalian      Amount event per city =         70
+OS Name = Linux City Name = dandong     Amount event per city =         10
+OS Name = Linux City Name = daqing      Amount event per city =         15
+OS Name = Linux City Name = datong      Amount event per city =         21
+OS Name = Linux City Name = daxinganling        Amount event per city =         1
+OS Name = Linux City Name = dazhou      Amount event per city =         6
+OS Name = Linux City Name = deyang      Amount event per city =         5
+OS Name = Linux City Name = dezhou      Amount event per city =         3
+OS Name = Linux City Name = dingxi      Amount event per city =         1
+OS Name = Linux City Name = dongguan    Amount event per city =         80
+OS Name = Linux City Name = dongying    Amount event per city =         10
+OS Name = Linux City Name = eerduosi    Amount event per city =         7
+OS Name = Linux City Name = enshishi    Amount event per city =         3
+OS Name = Linux City Name = ezhou       Amount event per city =         9
+OS Name = Linux City Name = fangchenggang       Amount event per city =         11
+OS Name = Linux City Name = foshan      Amount event per city =         77
+OS Name = Linux City Name = fujian      Amount event per city =         15
+OS Name = Linux City Name = fushun      Amount event per city =         5
+OS Name = Linux City Name = fuxin       Amount event per city =         8
+OS Name = Linux City Name = fuyang      Amount event per city =         7
+OS Name = Linux City Name = fuzhou_124  Amount event per city =         54
+OS Name = Linux City Name = fuzhou_134  Amount event per city =         1
+OS Name = Linux City Name = gansu       Amount event per city =         18
+OS Name = Linux City Name = ganzhou     Amount event per city =         6
+OS Name = Linux City Name = ganzi       Amount event per city =         2
+OS Name = Linux City Name = guangan     Amount event per city =         5
+OS Name = Linux City Name = guangdong   Amount event per city =         155
+OS Name = Linux City Name = guangxi     Amount event per city =         33
+OS Name = Linux City Name = guangyuan   Amount event per city =         6
+OS Name = Linux City Name = guangzhou   Amount event per city =         465
+OS Name = Linux City Name = guigang     Amount event per city =         3
+OS Name = Linux City Name = guilin      Amount event per city =         30
+OS Name = Linux City Name = guiyang     Amount event per city =         41
+OS Name = Linux City Name = guizhou     Amount event per city =         13
+OS Name = Linux City Name = haerbin     Amount event per city =         92
+OS Name = Linux City Name = haikou      Amount event per city =         20
+OS Name = Linux City Name = hainan      Amount event per city =         2
+OS Name = Linux City Name = hami        Amount event per city =         5
+OS Name = Linux City Name = handan      Amount event per city =         22
+OS Name = Linux City Name = hangzhou    Amount event per city =         262
+OS Name = Linux City Name = hanzhong    Amount event per city =         8
+OS Name = Linux City Name = hebei       Amount event per city =         24
+OS Name = Linux City Name = hebi        Amount event per city =         5
+OS Name = Linux City Name = hechi       Amount event per city =         6
+OS Name = Linux City Name = hefei       Amount event per city =         100
+OS Name = Linux City Name = hegang      Amount event per city =         1
+OS Name = Linux City Name = heihe       Amount event per city =         2
+OS Name = Linux City Name = heilongjiang        Amount event per city =         16
+OS Name = Linux City Name = henan       Amount event per city =         13
+OS Name = Linux City Name = hengshui    Amount event per city =         6
+OS Name = Linux City Name = hengyang    Amount event per city =         4
+OS Name = Linux City Name = heyuan      Amount event per city =         9
+OS Name = Linux City Name = heze        Amount event per city =         18
+OS Name = Linux City Name = honghe      Amount event per city =         5
+OS Name = Linux City Name = huaian      Amount event per city =         16
+OS Name = Linux City Name = huaibei     Amount event per city =         7
+OS Name = Linux City Name = huaihua     Amount event per city =         3
+OS Name = Linux City Name = huainan     Amount event per city =         9
+OS Name = Linux City Name = huanggang   Amount event per city =         6
+OS Name = Linux City Name = huangshan   Amount event per city =         1
+OS Name = Linux City Name = huangshi    Amount event per city =         4
+OS Name = Linux City Name = hubei       Amount event per city =         16
+OS Name = Linux City Name = huhehaote   Amount event per city =         22
+OS Name = Linux City Name = huizhou     Amount event per city =         36
+OS Name = Linux City Name = huludao     Amount event per city =         9
+OS Name = Linux City Name = hunan       Amount event per city =         22
+OS Name = Linux City Name = huzhou      Amount event per city =         25
+OS Name = Linux City Name = jiamusi     Amount event per city =         5
+OS Name = Linux City Name = jian        Amount event per city =         9
+OS Name = Linux City Name = jiangmen    Amount event per city =         23
+OS Name = Linux City Name = jiangsu     Amount event per city =         30
+OS Name = Linux City Name = jiangxi     Amount event per city =         9
+OS Name = Linux City Name = jiaozuo     Amount event per city =         10
+OS Name = Linux City Name = jiaxing     Amount event per city =         37
+OS Name = Linux City Name = jiayuguan   Amount event per city =         3
+OS Name = Linux City Name = jieyang     Amount event per city =         10
+OS Name = Linux City Name = jilin       Amount event per city =         15
+OS Name = Linux City Name = jilin_city  Amount event per city =         18
+OS Name = Linux City Name = jinan       Amount event per city =         125
+OS Name = Linux City Name = jinchang    Amount event per city =         2
+OS Name = Linux City Name = jincheng    Amount event per city =         6
+OS Name = Linux City Name = jingdezhen  Amount event per city =         2
+OS Name = Linux City Name = jingmen     Amount event per city =         12
+OS Name = Linux City Name = jingzhou    Amount event per city =         3
+OS Name = Linux City Name = jinhua      Amount event per city =         26
+OS Name = Linux City Name = jining      Amount event per city =         9
+OS Name = Linux City Name = jinzhongshi Amount event per city =         17
+OS Name = Linux City Name = jinzhou     Amount event per city =         12
+OS Name = Linux City Name = jiujiang    Amount event per city =         11
+OS Name = Linux City Name = kaifeng     Amount event per city =         2
+OS Name = Linux City Name = kashi       Amount event per city =         1
+OS Name = Linux City Name = kelamayi    Amount event per city =         2
+OS Name = Linux City Name = kunming     Amount event per city =         54
+OS Name = Linux City Name = laibin      Amount event per city =         5
+OS Name = Linux City Name = laiwu       Amount event per city =         2
+OS Name = Linux City Name = langfang    Amount event per city =         24
+OS Name = Linux City Name = lanzhou     Amount event per city =         33
+OS Name = Linux City Name = lasa        Amount event per city =         1
+OS Name = Linux City Name = leshan      Amount event per city =         14
+OS Name = Linux City Name = liangshan   Amount event per city =         1
+OS Name = Linux City Name = lianyungang Amount event per city =         11
+OS Name = Linux City Name = liaocheng   Amount event per city =         8
+OS Name = Linux City Name = liaoning    Amount event per city =         25
+OS Name = Linux City Name = liaoyang    Amount event per city =         3
+OS Name = Linux City Name = liaoyuan    Amount event per city =         3
+OS Name = Linux City Name = linfen      Amount event per city =         16
+OS Name = Linux City Name = linyi       Amount event per city =         11
+OS Name = Linux City Name = lishui      Amount event per city =         7
+OS Name = Linux City Name = liuan       Amount event per city =         4
+OS Name = Linux City Name = liupanshui  Amount event per city =         1
+OS Name = Linux City Name = liuzhou     Amount event per city =         22
+OS Name = Linux City Name = longyan     Amount event per city =         5
+OS Name = Linux City Name = loudi       Amount event per city =         5
+OS Name = Linux City Name = luohe       Amount event per city =         6
+OS Name = Linux City Name = luoyang     Amount event per city =         13
+OS Name = Linux City Name = luzhou      Amount event per city =         9
+OS Name = Linux City Name = lvliang     Amount event per city =         23
+OS Name = Linux City Name = maanshan    Amount event per city =         17
+OS Name = Linux City Name = maoming     Amount event per city =         16
+OS Name = Linux City Name = meishan     Amount event per city =         4
+OS Name = Linux City Name = meizhou     Amount event per city =         12
+OS Name = Linux City Name = mianyang    Amount event per city =         28
+OS Name = Linux City Name = mudanjiang  Amount event per city =         9
+OS Name = Linux City Name = nanchang    Amount event per city =         44
+OS Name = Linux City Name = nanchong    Amount event per city =         7
+OS Name = Linux City Name = nanjing     Amount event per city =         256
+OS Name = Linux City Name = nanning     Amount event per city =         90
+OS Name = Linux City Name = nanping     Amount event per city =         2
+OS Name = Linux City Name = nantong     Amount event per city =         30
+OS Name = Linux City Name = nanyang     Amount event per city =         15
+OS Name = Linux City Name = neijiang    Amount event per city =         5
+OS Name = Linux City Name = neimenggu   Amount event per city =         11
+OS Name = Linux City Name = ningbo      Amount event per city =         47
+OS Name = Linux City Name = ningde      Amount event per city =         2
+OS Name = Linux City Name = ningxia     Amount event per city =         2
+OS Name = Linux City Name = panjin      Amount event per city =         5
+OS Name = Linux City Name = panzhihua   Amount event per city =         4
+OS Name = Linux City Name = pingdingshan        Amount event per city =         11
+OS Name = Linux City Name = pingliang   Amount event per city =         2
+OS Name = Linux City Name = pingxiang   Amount event per city =         3
+OS Name = Linux City Name = puer        Amount event per city =         1
+OS Name = Linux City Name = putian      Amount event per city =         8
+OS Name = Linux City Name = puyang      Amount event per city =         2
+OS Name = Linux City Name = qiandongnan Amount event per city =         1
+OS Name = Linux City Name = qiannan     Amount event per city =         6
+OS Name = Linux City Name = qianxinan   Amount event per city =         4
+OS Name = Linux City Name = qingdao     Amount event per city =         86
+OS Name = Linux City Name = qinghai     Amount event per city =         5
+OS Name = Linux City Name = qingyang    Amount event per city =         1
+OS Name = Linux City Name = qingyuan    Amount event per city =         14
+OS Name = Linux City Name = qinhuangdao Amount event per city =         17
+OS Name = Linux City Name = qinzhou     Amount event per city =         9
+OS Name = Linux City Name = qiqihaer    Amount event per city =         4
+OS Name = Linux City Name = quanzhou    Amount event per city =         20
+OS Name = Linux City Name = qujing      Amount event per city =         2
+OS Name = Linux City Name = quzhou      Amount event per city =         9
+OS Name = Linux City Name = rizhao      Amount event per city =         8
+OS Name = Linux City Name = sanmenxia   Amount event per city =         4
+OS Name = Linux City Name = sanming     Amount event per city =         3
+OS Name = Linux City Name = shandong    Amount event per city =         66
+OS Name = Linux City Name = shanghai    Amount event per city =         736
+OS Name = Linux City Name = shangqiu    Amount event per city =         11
+OS Name = Linux City Name = shangrao    Amount event per city =         6
+OS Name = Linux City Name = shannxi     Amount event per city =         44
+OS Name = Linux City Name = shantou     Amount event per city =         19
+OS Name = Linux City Name = shanwei     Amount event per city =         5
+OS Name = Linux City Name = shanxi      Amount event per city =         32
+OS Name = Linux City Name = shaoguan    Amount event per city =         5
+OS Name = Linux City Name = shaoxing    Amount event per city =         14
+OS Name = Linux City Name = shaoyang    Amount event per city =         4
+OS Name = Linux City Name = shenyang    Amount event per city =         62
+OS Name = Linux City Name = shenzhen    Amount event per city =         589
+OS Name = Linux City Name = shijiazhuang        Amount event per city =         99
+OS Name = Linux City Name = shiyan      Amount event per city =         12
+OS Name = Linux City Name = shizuishan  Amount event per city =         1
+OS Name = Linux City Name = shuangyashan        Amount event per city =         3
+OS Name = Linux City Name = shuozhou    Amount event per city =         11
+OS Name = Linux City Name = sichuan     Amount event per city =         60
+OS Name = Linux City Name = siping      Amount event per city =         9
+OS Name = Linux City Name = songyuan    Amount event per city =         5
+OS Name = Linux City Name = suihua      Amount event per city =         4
+OS Name = Linux City Name = suining     Amount event per city =         3
+OS Name = Linux City Name = suizhou     Amount event per city =         1
+OS Name = Linux City Name = suqian      Amount event per city =         5
+OS Name = Linux City Name = suzhou      Amount event per city =         1
+OS Name = Linux City Name = suzhou_jiangsu      Amount event per city =         170
+OS Name = Linux City Name = taian       Amount event per city =         10
+OS Name = Linux City Name = taiwan      Amount event per city =         113
+OS Name = Linux City Name = taiyuan     Amount event per city =         122
+OS Name = Linux City Name = taizhou     Amount event per city =         12
+OS Name = Linux City Name = taizhou_jiangsu     Amount event per city =         9
+OS Name = Linux City Name = tangshan    Amount event per city =         20
+OS Name = Linux City Name = tianjin     Amount event per city =         259
+OS Name = Linux City Name = tianshui    Amount event per city =         5
+OS Name = Linux City Name = tieling     Amount event per city =         6
+OS Name = Linux City Name = tonghua     Amount event per city =         3
+OS Name = Linux City Name = tongliao    Amount event per city =         3
+OS Name = Linux City Name = tongling    Amount event per city =         4
+OS Name = Linux City Name = tongren     Amount event per city =         3
+OS Name = Linux City Name = tongzhou    Amount event per city =         1
+OS Name = Linux City Name = tulufan     Amount event per city =         1
+OS Name = Linux City Name = unknown     Amount event per city =         1068
+OS Name = Linux City Name = weifang     Amount event per city =         23
+OS Name = Linux City Name = weihai      Amount event per city =         15
+OS Name = Linux City Name = weinan      Amount event per city =         4
+OS Name = Linux City Name = wenshan     Amount event per city =         1
+OS Name = Linux City Name = wenzhou     Amount event per city =         40
+OS Name = Linux City Name = wuhai       Amount event per city =         2
+OS Name = Linux City Name = wuhan       Amount event per city =         191
+OS Name = Linux City Name = wuhu        Amount event per city =         5
+OS Name = Linux City Name = wulanchabu  Amount event per city =         2
+OS Name = Linux City Name = wulumuqi    Amount event per city =         59
+OS Name = Linux City Name = wuwei       Amount event per city =         1
+OS Name = Linux City Name = wuxi        Amount event per city =         81
+OS Name = Linux City Name = wuzhou      Amount event per city =         13
+OS Name = Linux City Name = xiamen      Amount event per city =         44
+OS Name = Linux City Name = xian        Amount event per city =         207
+OS Name = Linux City Name = xiangfan    Amount event per city =         14
+OS Name = Linux City Name = xianggang   Amount event per city =         46
+OS Name = Linux City Name = xiangtan    Amount event per city =         7
+OS Name = Linux City Name = xianning    Amount event per city =         8
+OS Name = Linux City Name = xianyang    Amount event per city =         31
+OS Name = Linux City Name = xiaogan     Amount event per city =         5
+OS Name = Linux City Name = xingtai     Amount event per city =         12
+OS Name = Linux City Name = xining      Amount event per city =         9
+OS Name = Linux City Name = xinjiang    Amount event per city =         11
+OS Name = Linux City Name = xinxiang    Amount event per city =         9
+OS Name = Linux City Name = xinyang     Amount event per city =         10
+OS Name = Linux City Name = xinyu       Amount event per city =         3
+OS Name = Linux City Name = xinzhou     Amount event per city =         9
+OS Name = Linux City Name = xishuangbanna       Amount event per city =         2
+OS Name = Linux City Name = xizang      Amount event per city =         6
+OS Name = Linux City Name = xuancheng   Amount event per city =         2
+OS Name = Linux City Name = xuchang     Amount event per city =         3
+OS Name = Linux City Name = xuzhou      Amount event per city =         25
+OS Name = Linux City Name = yaan        Amount event per city =         3
+OS Name = Linux City Name = yanan       Amount event per city =         1
+OS Name = Linux City Name = yanbian     Amount event per city =         7
+OS Name = Linux City Name = yancheng    Amount event per city =         17
+OS Name = Linux City Name = yangjiang   Amount event per city =         1
+OS Name = Linux City Name = yangquan    Amount event per city =         12
+OS Name = Linux City Name = yangzhou    Amount event per city =         23
+OS Name = Linux City Name = yantai      Amount event per city =         54
+OS Name = Linux City Name = yibin       Amount event per city =         14
+OS Name = Linux City Name = yichang     Amount event per city =         3
+OS Name = Linux City Name = yichun_134  Amount event per city =         3
+OS Name = Linux City Name = yichun_65   Amount event per city =         4
+OS Name = Linux City Name = yili        Amount event per city =         7
+OS Name = Linux City Name = yinchuan    Amount event per city =         18
+OS Name = Linux City Name = yingkou     Amount event per city =         12
+OS Name = Linux City Name = yingtan     Amount event per city =         3
+OS Name = Linux City Name = yiyang      Amount event per city =         8
+OS Name = Linux City Name = yongzhou    Amount event per city =         3
+OS Name = Linux City Name = yueyang     Amount event per city =         7
+OS Name = Linux City Name = yulin_238   Amount event per city =         12
+OS Name = Linux City Name = yulin_333   Amount event per city =         11
+OS Name = Linux City Name = yuncheng    Amount event per city =         16
+OS Name = Linux City Name = yunfu       Amount event per city =         4
+OS Name = Linux City Name = yunnan      Amount event per city =         13
+OS Name = Linux City Name = yuxi        Amount event per city =         4
+OS Name = Linux City Name = zaozhuang   Amount event per city =         5
+OS Name = Linux City Name = zhangjiajie Amount event per city =         1
+OS Name = Linux City Name = zhangjiakou Amount event per city =         12
+OS Name = Linux City Name = zhangzhou   Amount event per city =         15
+OS Name = Linux City Name = zhanjiang   Amount event per city =         15
+OS Name = Linux City Name = zhaoqing    Amount event per city =         14
+OS Name = Linux City Name = zhaotong    Amount event per city =         2
+OS Name = Linux City Name = zhejiang    Amount event per city =         34
+OS Name = Linux City Name = zhengzhou   Amount event per city =         102
+OS Name = Linux City Name = zhenjiang   Amount event per city =         11
+OS Name = Linux City Name = zhongshan   Amount event per city =         27
+OS Name = Linux City Name = zhongwei    Amount event per city =         2
+OS Name = Linux City Name = zhoukou     Amount event per city =         9
+OS Name = Linux City Name = zhoushan    Amount event per city =         5
+OS Name = Linux City Name = zhuhai      Amount event per city =         48
+OS Name = Linux City Name = zhumadian   Amount event per city =         3
+OS Name = Linux City Name = zhuzhou     Amount event per city =         13
+OS Name = Linux City Name = zibo        Amount event per city =         18
+OS Name = Linux City Name = zigong      Amount event per city =         13
+OS Name = Linux City Name = ziyang      Amount event per city =         7
+OS Name = Linux City Name = zunyi       Amount event per city =         9
