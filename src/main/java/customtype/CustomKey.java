@@ -83,9 +83,9 @@ public class CustomKey implements WritableComparable<CustomKey> {
 
     @Override
     public int compareTo(CustomKey o) {
-        int returnValue = OSType.compareTo( o.getOSType());
-        if (returnValue != 0) {
-            returnValue = cityName.compareTo(o.getCityName());
+        int returnValue = cityName.compareTo( o.getCityName());
+        if (returnValue == 0) {
+            returnValue = OSType.compareTo(o.getOSType());
         }
         return returnValue;
         }

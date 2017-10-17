@@ -60,7 +60,7 @@ public class MRTest {
                 "221.1.19.*\t146\t149\t1\t5F97t5E0BTK7XhNrUMpENpn\t88855d41f70e2b51e52becb5d8305367\tnull\tmm_10027070_118039_10308280\t160\t600\t2\t1\t0\t" +
                 "36391fa23e0928a93cd51ea8af344b82\t300\t116\tdf6f61b2409f4e2f16b6873a7eb50444\n");
         mapDriver.withInput(new LongWritable(1), text);
-        mapDriver.withOutput(new CustomKey(new Text("zibo"), new Text("Windows XP")), new IntWritable(1));
+        mapDriver.withOutput(new CustomKey(new Text("zibo"), new Text("Windows")), new IntWritable(1));
         mapDriver.runTest();
     }
     @Test
@@ -70,7 +70,7 @@ public class MRTest {
                 "114.238.96.*\t80\t88\t1\te1F0t19ogqNhjqKbuKz\td638f96b03a2707f0dedae9fea1154c7\tnull\tmm_10032051_2374052_9577342\t950\t90\t2\t1\t0\t" +
                 "8f86b069dbb8898e2beca5ec3030e147\t300\t101\tdf6f61b2409f4e2f16b6873a7eb50444\n");
         mapDriver.withInput(new LongWritable(1), text);
-        mapDriver.withOutput(new CustomKey(new Text("huaian"), new Text("Mac OS X")), new IntWritable(1));
+        mapDriver.withOutput(new CustomKey(new Text("huaian"), new Text("Mac OS")), new IntWritable(1));
         mapDriver.runTest();
     }
 

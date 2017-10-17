@@ -36,7 +36,6 @@ public class AppDriver extends Configured implements Tool {
 
         Configuration conf = new Configuration();
         job.addCacheFile(new Path(args[0]).toUri());
-        //DistributedCache.addCacheFile(new Path(args[0]).toUri(), job.getConfiguration());
         FileSystem fs= FileSystem.get(conf);
         FileInputFormat.setInputDirRecursive(job,true);
         FileStatus[] status_list = fs.listStatus(new Path(args[1]));

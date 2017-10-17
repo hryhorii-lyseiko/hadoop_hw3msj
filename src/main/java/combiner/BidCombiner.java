@@ -2,6 +2,7 @@ package combiner;
 
 import customtype.CustomKey;
 import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
 import java.io.IOException;
@@ -16,6 +17,6 @@ public class BidCombiner extends Reducer<CustomKey,IntWritable,CustomKey,IntWrit
                 count += value.get();
         }
 
-        context.write(key,new IntWritable(count));
+        context.write(new CustomKey(key.getCityName(),key.getOSType()),new IntWritable(count));
     }
 }
